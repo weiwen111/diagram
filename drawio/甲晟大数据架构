@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-10T04:14:52.015Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="dGLupoQFsICRgwz_VCL8" version="12.3.9" type="github" pages="2">
+<mxfile host="www.draw.io" modified="2019-12-10T04:18:03.966Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="ptFtaahuPpSa1Nn_r5uU" version="12.3.9" type="github" pages="2">
   <diagram id="qdbM2NscnjsmGarwq48K" name="大数据平台">
     <mxGraphModel dx="1896" dy="1016" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
@@ -99,23 +99,8 @@
         <mxCell id="fhFOB5NNc-lUCL9282FN-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#E1D5E7;fontColor=#333333;dashed=1;strokeWidth=1;fontSize=23;" vertex="1" parent="iY62wrc9DmDntSg76ivw-1">
           <mxGeometry x="115.6421052631579" y="228" width="1334.3578947368421" height="361.12" as="geometry"/>
         </mxCell>
-        <mxCell id="fhFOB5NNc-lUCL9282FN-4" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;pingfang sc&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , sans-serif ; font-size: 14px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;Feign&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#005700;fillColor=#008a00;fontColor=#ffffff;fontSize=23;" vertex="1" parent="iY62wrc9DmDntSg76ivw-1">
-          <mxGeometry x="146.67368421052632" y="322.9" width="253.8947368421053" height="74" as="geometry"/>
-        </mxCell>
-        <mxCell id="fhFOB5NNc-lUCL9282FN-6" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;pingfang sc&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , sans-serif ; font-size: 14px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;Zuul&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#001DBC;fillColor=#66B2FF;fontColor=#ffffff;fontSize=23;" vertex="1" parent="iY62wrc9DmDntSg76ivw-1">
-          <mxGeometry x="460.0263157894737" y="469.9" width="231.32631578947374" height="74" as="geometry"/>
-        </mxCell>
-        <mxCell id="fhFOB5NNc-lUCL9282FN-11" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;pingfang sc&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , sans-serif ; font-size: 14px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;Spring Cloud Security&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#B09500;fillColor=#e3c800;fontColor=#ffffff;fontSize=23;" vertex="1" parent="iY62wrc9DmDntSg76ivw-1">
-          <mxGeometry x="772.7526315789473" y="322.9" width="409.0526315789474" height="74" as="geometry"/>
-        </mxCell>
         <mxCell id="fhFOB5NNc-lUCL9282FN-12" value="&lt;span style=&quot;font-size: 27px ; text-align: left ; white-space: nowrap&quot;&gt;Eureka&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#001DBC;fillColor=#FFE599;fontColor=#FF66FF;fontSize=23;" vertex="1" parent="iY62wrc9DmDntSg76ivw-1">
           <mxGeometry x="146.67368421052632" y="109.6" width="253.8947368421053" height="74" as="geometry"/>
-        </mxCell>
-        <mxCell id="fhFOB5NNc-lUCL9282FN-13" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;pingfang sc&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , sans-serif ; font-size: 14px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;Hystrix&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#001DBC;fillColor=#FFE599;fontColor=#FF66FF;fontSize=23;" vertex="1" parent="iY62wrc9DmDntSg76ivw-1">
-          <mxGeometry x="519.9263157894737" y="360.1" width="231.32631578947374" height="74" as="geometry"/>
-        </mxCell>
-        <mxCell id="fhFOB5NNc-lUCL9282FN-14" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;pingfang sc&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , sans-serif ; font-size: 14px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;Ribbon&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#001DBC;fillColor=#FFE599;fontColor=#FF66FF;fontSize=23;" vertex="1" parent="iY62wrc9DmDntSg76ivw-1">
-          <mxGeometry x="879.9000000000001" y="408.6" width="301.8526315789474" height="74" as="geometry"/>
         </mxCell>
         <mxCell id="fhFOB5NNc-lUCL9282FN-26" value="数据展示" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;fontSize=27;fontColor=#007FFF;" vertex="1" parent="iY62wrc9DmDntSg76ivw-1">
           <mxGeometry x="1249.8526315789475" y="129.76" width="120" height="40" as="geometry"/>
@@ -134,6 +119,9 @@
         </mxCell>
         <mxCell id="pSD7YMxMkxV7FEqEwTrN-13" value="&lt;span style=&quot;color: rgb(255 , 102 , 255) ; font-size: 27px ; text-align: left&quot;&gt;Spring Cloud Security&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#B09500;fillColor=#e3c800;fontColor=#ffffff;fontSize=23;" vertex="1" parent="iY62wrc9DmDntSg76ivw-1">
           <mxGeometry x="772.7526315789473" y="227.89999999999998" width="409.0526315789474" height="74" as="geometry"/>
+        </mxCell>
+        <mxCell id="pSD7YMxMkxV7FEqEwTrN-15" value="&lt;span style=&quot;font-size: 27px ; text-align: left ; white-space: nowrap&quot;&gt;Microservice&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#001DBC;fillColor=#FFE599;fontColor=#FF66FF;fontSize=23;" vertex="1" parent="iY62wrc9DmDntSg76ivw-1">
+          <mxGeometry x="880.1736842105263" y="430.1" width="253.8947368421053" height="74" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
