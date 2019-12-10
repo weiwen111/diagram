@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2019-12-10T02:56:27.019Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="6q35pBZwKmZI0p4C34Lg" version="12.3.9" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-10T02:59:23.618Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="F_0f534dRmKTH8wHzSau" version="12.3.9" type="github" pages="1">
   <diagram id="qdbM2NscnjsmGarwq48K" name="第 1 页">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -14,7 +14,7 @@
           <mxGeometry x="219" y="629.5" width="473" height="70" as="geometry"/>
         </mxCell>
         <mxCell id="bo1bDoPpC9LcX4LG_zsN-35" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#E1D5E7;fontColor=#333333;dashed=1;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="217" y="710" width="473" height="70" as="geometry"/>
+          <mxGeometry x="217" y="710" width="474" height="70" as="geometry"/>
         </mxCell>
         <mxCell id="bo1bDoPpC9LcX4LG_zsN-2" value="Spark Sql" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#005700;fillColor=#008a00;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="230" y="385" width="90" height="50" as="geometry"/>
@@ -72,6 +72,18 @@
         </mxCell>
         <mxCell id="bo1bDoPpC9LcX4LG_zsN-34" value="App Log ......" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#001DBC;fillColor=#66B2FF;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="385" y="720" width="125" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="bo1bDoPpC9LcX4LG_zsN-39" value="数据来源" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;fontSize=18;fontColor=#4D4D4D;" vertex="1" parent="1">
+          <mxGeometry x="609" y="732" width="82" height="26" as="geometry"/>
+        </mxCell>
+        <mxCell id="bo1bDoPpC9LcX4LG_zsN-40" value="数据抽取" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;fontSize=18;fontColor=#4D4D4D;" vertex="1" parent="1">
+          <mxGeometry x="609" y="654" width="82" height="26" as="geometry"/>
+        </mxCell>
+        <mxCell id="bo1bDoPpC9LcX4LG_zsN-41" value="数据处理" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;fontSize=18;fontColor=#4D4D4D;" vertex="1" parent="1">
+          <mxGeometry x="609" y="502" width="82" height="26" as="geometry"/>
+        </mxCell>
+        <mxCell id="bo1bDoPpC9LcX4LG_zsN-42" value="数据展示" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;fontSize=18;fontColor=#4D4D4D;" vertex="1" parent="1">
+          <mxGeometry x="609" y="317" width="82" height="26" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
