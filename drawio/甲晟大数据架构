@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-10T04:18:03.966Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="ptFtaahuPpSa1Nn_r5uU" version="12.3.9" type="github" pages="2">
+<mxfile host="www.draw.io" modified="2019-12-10T06:20:31.638Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="W07SH9ctXQwES_yJxwRd" version="12.3.9" type="github" pages="2">
   <diagram id="qdbM2NscnjsmGarwq48K" name="大数据平台">
     <mxGraphModel dx="1896" dy="1016" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
@@ -122,6 +122,9 @@
         </mxCell>
         <mxCell id="pSD7YMxMkxV7FEqEwTrN-15" value="&lt;span style=&quot;font-size: 27px ; text-align: left ; white-space: nowrap&quot;&gt;Microservice&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#001DBC;fillColor=#FFE599;fontColor=#FF66FF;fontSize=23;" vertex="1" parent="iY62wrc9DmDntSg76ivw-1">
           <mxGeometry x="880.1736842105263" y="430.1" width="253.8947368421053" height="74" as="geometry"/>
+        </mxCell>
+        <mxCell id="pSD7YMxMkxV7FEqEwTrN-18" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-size: 27px&quot;&gt;Oauth2.0&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#001DBC;fillColor=#FFE599;fontColor=#FF66FF;fontSize=23;" vertex="1" parent="iY62wrc9DmDntSg76ivw-1">
+          <mxGeometry x="343.1736842105263" y="408.6" width="253.8947368421053" height="74" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
