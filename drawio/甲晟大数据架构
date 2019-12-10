@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-10T03:19:26.098Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="cLeot6nu_z8R1GwzXyro" version="12.3.9" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-10T03:19:52.830Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="mdjq5gYaz0ugDlI6bNa0" version="12.3.9" type="github" pages="2">
   <diagram id="qdbM2NscnjsmGarwq48K" name="大数据平台">
     <mxGraphModel dx="1422" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -85,6 +85,14 @@
         <mxCell id="bo1bDoPpC9LcX4LG_zsN-42" value="数据展示" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;fontSize=18;fontColor=#007FFF;" vertex="1" parent="1">
           <mxGeometry x="609" y="317" width="82" height="26" as="geometry"/>
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="QXMUelVw7kIiB_J6OmVQ" name="基础支撑平台">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="iY62wrc9DmDntSg76ivw-0"/>
+        <mxCell id="iY62wrc9DmDntSg76ivw-1" parent="iY62wrc9DmDntSg76ivw-0"/>
       </root>
     </mxGraphModel>
   </diagram>
