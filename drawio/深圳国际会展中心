@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-17T02:18:31.917Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36" etag="lE5_GSTI6Ze1EG9LozJC" version="12.4.2" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-17T02:27:32.698Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36" etag="RMeEFySw2RSUQYJbGZQx" version="12.4.2" type="github" pages="1">
   <diagram id="ilURIh8u8_e-pet2xJpR" name="第 1 页">
     <mxGraphModel dx="868" dy="618" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
@@ -48,6 +48,9 @@
         <mxCell id="yPBhbCnrm8DbXvKA5fAn-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="1" source="yPBhbCnrm8DbXvKA5fAn-11" target="yPBhbCnrm8DbXvKA5fAn-12">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
+        <mxCell id="yPBhbCnrm8DbXvKA5fAn-36" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.002;entryY=0.552;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#000000;" edge="1" parent="1" source="yPBhbCnrm8DbXvKA5fAn-11" target="yPBhbCnrm8DbXvKA5fAn-35">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
         <mxCell id="yPBhbCnrm8DbXvKA5fAn-11" value="流分析" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Stream_Analytics.svg;fillColor=#FFFF00;" vertex="1" parent="1">
           <mxGeometry x="500" y="436.9" width="40" height="31.2" as="geometry"/>
         </mxCell>
@@ -84,11 +87,20 @@
         <mxCell id="yPBhbCnrm8DbXvKA5fAn-31" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#000000;" edge="1" parent="1" source="yPBhbCnrm8DbXvKA5fAn-28" target="yPBhbCnrm8DbXvKA5fAn-4">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
+        <mxCell id="yPBhbCnrm8DbXvKA5fAn-38" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="yPBhbCnrm8DbXvKA5fAn-28" target="yPBhbCnrm8DbXvKA5fAn-37">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
         <mxCell id="yPBhbCnrm8DbXvKA5fAn-28" value="File" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.cloud_services_configuration_file;pointerEvents=1;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="202.5" y="110" width="47.5" height="50" as="geometry"/>
         </mxCell>
         <mxCell id="yPBhbCnrm8DbXvKA5fAn-32" value="File DB" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.sql_reporting;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="552" y="259" width="40" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="yPBhbCnrm8DbXvKA5fAn-35" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;fillColor=#E6FFCC;" vertex="1" parent="1">
+          <mxGeometry x="778" y="520" width="50" height="42" as="geometry"/>
+        </mxCell>
+        <mxCell id="yPBhbCnrm8DbXvKA5fAn-37" value="FTP Server" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.ftp_server;fillColor=#E6FFCC;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="540.08" y="170" width="43.92" height="60" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
