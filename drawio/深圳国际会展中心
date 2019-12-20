@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-20T02:35:43.254Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36" etag="NBO1ZUzYOet022mEvCIi" version="12.4.2" type="github" pages="2">
+<mxfile host="www.draw.io" modified="2019-12-20T02:36:11.968Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36" etag="q33FEz6IP2x9hIVBz5RB" version="12.4.2" type="github" pages="2">
   <diagram id="ilURIh8u8_e-pet2xJpR" name="第 1 页">
     <mxGraphModel dx="1151" dy="618" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
@@ -144,25 +144,25 @@
           <mxGeometry x="280" y="625" width="60" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="yKm3RqgXqcRSJSjNe6-l-8" value="三维" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;fillColor=#E6FFCC;fontColor=#000000;" vertex="1" parent="yKm3RqgXqcRSJSjNe6-l-1">
-          <mxGeometry x="506" y="625" width="60" height="80" as="geometry"/>
+          <mxGeometry x="526" y="625" width="60" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="yKm3RqgXqcRSJSjNe6-l-9" value="室内导航" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;fillColor=#E6FFCC;fontColor=#000000;" vertex="1" parent="yKm3RqgXqcRSJSjNe6-l-1">
-          <mxGeometry x="731" y="625" width="60" height="80" as="geometry"/>
+          <mxGeometry x="771" y="625" width="60" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="yKm3RqgXqcRSJSjNe6-l-10" value="综合可视化" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;fillColor=#E6FFCC;fontColor=#000000;" vertex="1" parent="yKm3RqgXqcRSJSjNe6-l-1">
-          <mxGeometry x="957" y="625" width="60" height="80" as="geometry"/>
+          <mxGeometry x="1017" y="625" width="60" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="yKm3RqgXqcRSJSjNe6-l-11" value="平安会展" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;fillColor=#E6FFCC;fontColor=#000000;" vertex="1" parent="yKm3RqgXqcRSJSjNe6-l-1">
-          <mxGeometry x="393" y="625" width="60" height="80" as="geometry"/>
+          <mxGeometry x="403" y="625" width="60" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="yKm3RqgXqcRSJSjNe6-l-12" value="统一物联" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;fillColor=#E6FFCC;fontColor=#000000;" vertex="1" parent="yKm3RqgXqcRSJSjNe6-l-1">
-          <mxGeometry x="1070" y="625" width="60" height="80" as="geometry"/>
+          <mxGeometry x="1140" y="625" width="60" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="yKm3RqgXqcRSJSjNe6-l-13" value="。。。" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;fillColor=#E6FFCC;fontColor=#000000;" vertex="1" parent="yKm3RqgXqcRSJSjNe6-l-1">
-          <mxGeometry x="619" y="625" width="60" height="80" as="geometry"/>
+          <mxGeometry x="649" y="625" width="60" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="yKm3RqgXqcRSJSjNe6-l-14" value="位置服务" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;fillColor=#E6FFCC;fontColor=#000000;" vertex="1" parent="yKm3RqgXqcRSJSjNe6-l-1">
-          <mxGeometry x="844" y="625" width="60" height="80" as="geometry"/>
+          <mxGeometry x="894" y="625" width="60" height="80" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
