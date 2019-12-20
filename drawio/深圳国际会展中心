@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-20T07:14:37.432Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36" etag="Z5m5KTJgwvMCY1TxNOo2" version="12.4.2" type="github" pages="3">
+<mxfile host="www.draw.io" modified="2019-12-20T08:22:27.757Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36" etag="hcXMPIzF42pDJj5dX_rl" version="12.4.2" type="github" pages="3">
   <diagram id="ilURIh8u8_e-pet2xJpR" name="第 1 页">
     <mxGraphModel dx="868" dy="618" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
@@ -216,7 +216,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ujsQfyNvTu-sNSctWXx_" name="采集设计">
-    <mxGraphModel dx="1476" dy="1050" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="1476" dy="1050" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="qoeWxieMNjAp4VtGJATH-0"/>
         <mxCell id="qoeWxieMNjAp4VtGJATH-1" parent="qoeWxieMNjAp4VtGJATH-0"/>
