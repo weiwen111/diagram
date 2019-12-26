@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-26T01:16:28.275Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="JD3e0WCOfopZNK-plU-j" version="12.4.3" type="github" pages="4">
+<mxfile host="www.draw.io" modified="2019-12-26T01:20:40.027Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="J2bdJc2h36gMtOhFmNwe" version="12.4.3" type="github" pages="4">
   <diagram id="ilURIh8u8_e-pet2xJpR" name="第 1 页">
     <mxGraphModel dx="1250" dy="811" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
@@ -353,7 +353,7 @@
         <mxCell id="CNJz1xYY9RD_JUmhUiUl-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="GaOvcDZxYdBBkpVEu9Tq-1" source="GaOvcDZxYdBBkpVEu9Tq-6" target="GaOvcDZxYdBBkpVEu9Tq-8">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="GaOvcDZxYdBBkpVEu9Tq-6" value="&lt;ol&gt;&lt;li&gt;&lt;span&gt;各系统以ods前缀建库，如ods_uiot库&lt;/span&gt;&lt;/li&gt;&lt;li&gt;以日期对表进行分区PARTITIONED BY (ds string)&lt;span class=&quot;s1&quot;&gt;，日期格式&lt;/span&gt;&lt;span&gt;2019-12-03&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;align=left;" vertex="1" parent="GaOvcDZxYdBBkpVEu9Tq-1">
+        <mxCell id="GaOvcDZxYdBBkpVEu9Tq-6" value="&lt;ol&gt;&lt;li&gt;&lt;span&gt;各系统以ods前缀建库，如ods_uiot库&lt;/span&gt;&lt;/li&gt;&lt;li&gt;以日期对表进行分区PARTITIONED BY (ds string)&lt;span class=&quot;s1&quot;&gt;，日期格式&lt;/span&gt;&lt;span&gt;2019-12-03&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;每次采集数据存入新的日期分区，不能影响已有分区&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;align=left;" vertex="1" parent="GaOvcDZxYdBBkpVEu9Tq-1">
           <mxGeometry x="475" y="220" width="270" height="120" as="geometry"/>
         </mxCell>
         <mxCell id="GaOvcDZxYdBBkpVEu9Tq-7" value="ods层（hive）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" vertex="1" parent="GaOvcDZxYdBBkpVEu9Tq-1">
@@ -365,7 +365,7 @@
         <mxCell id="GaOvcDZxYdBBkpVEu9Tq-8" value="HiveSql" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;align=center;" vertex="1" parent="GaOvcDZxYdBBkpVEu9Tq-1">
           <mxGeometry x="815" y="240" width="120" height="80" as="geometry"/>
         </mxCell>
-        <mxCell id="GaOvcDZxYdBBkpVEu9Tq-10" value="&lt;ol&gt;&lt;li&gt;&lt;span&gt;各主题以dwd前缀建库，如dwd_equipment库&lt;/span&gt;&lt;/li&gt;&lt;li&gt;以日期对表进行分区PARTITIONED BY (ds string)&lt;span class=&quot;s1&quot;&gt;，日期格式&lt;/span&gt;&lt;span&gt;2019-12-03&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;align=left;" vertex="1" parent="GaOvcDZxYdBBkpVEu9Tq-1">
+        <mxCell id="GaOvcDZxYdBBkpVEu9Tq-10" value="&lt;ol&gt;&lt;li&gt;&lt;span&gt;各主题以dwd前缀建库，如dwd_equipment库&lt;/span&gt;&lt;/li&gt;&lt;li&gt;以日期对表进行分区PARTITIONED BY (ds string)&lt;span class=&quot;s1&quot;&gt;，日期格式&lt;/span&gt;&lt;span&gt;2019-12-03&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;每次采集数据存入新的日期分区，不能影响已有分区&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;align=left;" vertex="1" parent="GaOvcDZxYdBBkpVEu9Tq-1">
           <mxGeometry x="990" y="220" width="300" height="120" as="geometry"/>
         </mxCell>
         <mxCell id="GaOvcDZxYdBBkpVEu9Tq-11" value="dwd层（hive）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" vertex="1" parent="GaOvcDZxYdBBkpVEu9Tq-1">
