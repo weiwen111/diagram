@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-27T09:28:14.332Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="Y92bgPpf9kVdGHVBN8f4" version="12.4.3" type="github" pages="6">
+<mxfile host="www.draw.io" modified="2019-12-27T09:52:12.836Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="PVcO0tkaDybKoR5ZV_k8" version="12.4.3" type="github" pages="6">
   <diagram id="ilURIh8u8_e-pet2xJpR" name="第 1 页">
     <mxGraphModel dx="3725" dy="2028" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
@@ -256,7 +256,7 @@
         <mxCell id="qoeWxieMNjAp4VtGJATH-26" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=19;fontColor=#000000;" parent="qoeWxieMNjAp4VtGJATH-1" source="qoeWxieMNjAp4VtGJATH-27" target="qoeWxieMNjAp4VtGJATH-29" edge="1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="qoeWxieMNjAp4VtGJATH-27" value="API" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;fillColor=#E6FFCC;fontSize=19;fontColor=#000000;" parent="qoeWxieMNjAp4VtGJATH-1" vertex="1">
+        <mxCell id="qoeWxieMNjAp4VtGJATH-27" value="API" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;fillColor=#d0cee2;fontSize=19;strokeColor=#56517e;" parent="qoeWxieMNjAp4VtGJATH-1" vertex="1">
           <mxGeometry x="135" y="367.5" width="60" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="wh0QTEF-aceDELzpQwoF-32" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="qoeWxieMNjAp4VtGJATH-1" source="qoeWxieMNjAp4VtGJATH-29" target="wh0QTEF-aceDELzpQwoF-12">
@@ -274,7 +274,7 @@
         <mxCell id="qoeWxieMNjAp4VtGJATH-33" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=19;fontColor=#000000;" parent="qoeWxieMNjAp4VtGJATH-1" source="qoeWxieMNjAp4VtGJATH-34" target="qoeWxieMNjAp4VtGJATH-36" edge="1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="qoeWxieMNjAp4VtGJATH-34" value="FTP" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;fillColor=#E6FFCC;fontSize=19;fontColor=#000000;" parent="qoeWxieMNjAp4VtGJATH-1" vertex="1">
+        <mxCell id="qoeWxieMNjAp4VtGJATH-34" value="FTP" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;fillColor=#d0cee2;fontSize=19;strokeColor=#56517e;" parent="qoeWxieMNjAp4VtGJATH-1" vertex="1">
           <mxGeometry x="135" y="692.5" width="60" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="wh0QTEF-aceDELzpQwoF-33" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="qoeWxieMNjAp4VtGJATH-1" source="qoeWxieMNjAp4VtGJATH-36" target="wh0QTEF-aceDELzpQwoF-17">
@@ -322,7 +322,7 @@
         <mxCell id="tjFicl7IARWp7Ixw9V6N-8" value="stream" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=19;image=img/lib/mscae/Stream_Analytics.svg;fillColor=#E6FFCC;" parent="qoeWxieMNjAp4VtGJATH-1" vertex="1">
           <mxGeometry x="473" y="1466" width="50" height="39" as="geometry"/>
         </mxCell>
-        <mxCell id="tjFicl7IARWp7Ixw9V6N-10" value="API" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6FFCC;fontSize=19;fontColor=#000000;" parent="qoeWxieMNjAp4VtGJATH-1" vertex="1">
+        <mxCell id="tjFicl7IARWp7Ixw9V6N-10" value="API" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;fontSize=19;strokeColor=#d6b656;" parent="qoeWxieMNjAp4VtGJATH-1" vertex="1">
           <mxGeometry x="790" y="1507.5" width="70" height="70" as="geometry"/>
         </mxCell>
         <mxCell id="wh0QTEF-aceDELzpQwoF-9" value="" style="group" vertex="1" connectable="0" parent="qoeWxieMNjAp4VtGJATH-1">
