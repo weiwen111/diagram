@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-03T03:38:30.367Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="_aIr4j5uwnn5SEENIVNI" version="12.4.3" type="github" pages="8">
+<mxfile host="www.draw.io" modified="2020-01-03T03:40:17.481Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="lF30CAR0Yg1Aiktih3qP" version="12.4.3" type="github" pages="8">
   <diagram id="ilURIh8u8_e-pet2xJpR" name="第 1 页">
     <mxGraphModel dx="3725" dy="2028" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
@@ -850,6 +850,9 @@
       <root>
         <mxCell id="bTTTMibBiaoxzihiF6JQ-0"/>
         <mxCell id="bTTTMibBiaoxzihiF6JQ-1" parent="bTTTMibBiaoxzihiF6JQ-0"/>
+        <mxCell id="bTTTMibBiaoxzihiF6JQ-23" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="bTTTMibBiaoxzihiF6JQ-1">
+          <mxGeometry x="570" y="260" width="210" height="180" as="geometry"/>
+        </mxCell>
         <mxCell id="bTTTMibBiaoxzihiF6JQ-18" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="bTTTMibBiaoxzihiF6JQ-1">
           <mxGeometry x="60" y="70" width="310" height="260" as="geometry"/>
         </mxCell>
@@ -893,10 +896,10 @@
           <mxGeometry x="10" y="10" width="60" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="bTTTMibBiaoxzihiF6JQ-13" value="爬虫" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;" vertex="1" parent="bTTTMibBiaoxzihiF6JQ-1">
-          <mxGeometry x="590" y="170" width="80" height="50" as="geometry"/>
+          <mxGeometry x="630" y="300" width="80" height="50" as="geometry"/>
         </mxCell>
         <mxCell id="bTTTMibBiaoxzihiF6JQ-14" value="跳板机" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="bTTTMibBiaoxzihiF6JQ-1">
-          <mxGeometry x="595" y="240" width="70" height="50" as="geometry"/>
+          <mxGeometry x="635" y="370" width="70" height="50" as="geometry"/>
         </mxCell>
         <mxCell id="bTTTMibBiaoxzihiF6JQ-15" value="mysql" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;" vertex="1" parent="bTTTMibBiaoxzihiF6JQ-1">
           <mxGeometry x="80" y="485" width="60" height="80" as="geometry"/>
@@ -912,6 +915,9 @@
         </mxCell>
         <mxCell id="bTTTMibBiaoxzihiF6JQ-21" value="Manager应用" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="bTTTMibBiaoxzihiF6JQ-22">
           <mxGeometry x="8.461538461538462" y="7.142857142857143" width="101.53846153846153" height="42.857142857142854" as="geometry"/>
+        </mxCell>
+        <mxCell id="bTTTMibBiaoxzihiF6JQ-24" value="双创云/内外网" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" vertex="1" parent="bTTTMibBiaoxzihiF6JQ-1">
+          <mxGeometry x="625" y="270" width="90" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
