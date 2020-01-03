@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-03T03:53:32.714Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="rxLf92z8g8ZErDgHv8Hd" version="12.4.3" type="github" pages="8">
+<mxfile host="www.draw.io" modified="2020-01-03T03:54:01.491Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="_jAb0IOSVTrh2VTz0Yln" version="12.4.3" type="github" pages="8">
   <diagram id="ilURIh8u8_e-pet2xJpR" name="第 1 页">
     <mxGraphModel dx="3725" dy="2028" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
@@ -919,7 +919,7 @@
         <mxCell id="bTTTMibBiaoxzihiF6JQ-21" value="Manager应用" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="bTTTMibBiaoxzihiF6JQ-22">
           <mxGeometry x="8.461538461538462" y="7.142857142857143" width="101.53846153846153" height="42.857142857142854" as="geometry"/>
         </mxCell>
-        <mxCell id="bTTTMibBiaoxzihiF6JQ-24" value="双创云/内外网（一台机器）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" vertex="1" parent="bTTTMibBiaoxzihiF6JQ-1">
+        <mxCell id="bTTTMibBiaoxzihiF6JQ-24" value="双创云/内外网（1台机器）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" vertex="1" parent="bTTTMibBiaoxzihiF6JQ-1">
           <mxGeometry x="560" y="270" width="160" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="bTTTMibBiaoxzihiF6JQ-27" value="" style="group" vertex="1" connectable="0" parent="bTTTMibBiaoxzihiF6JQ-1">
