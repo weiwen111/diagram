@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-06T03:20:07.015Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="GR1dm7rVvHv42lqkU57g" version="12.4.8" type="github" pages="9">
+<mxfile host="www.draw.io" modified="2020-01-06T03:23:11.013Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="s8nvWM_Vl186ReG_ib8Q" version="12.4.8" type="github" pages="9">
   <diagram id="ilURIh8u8_e-pet2xJpR" name="第 1 页">
     <mxGraphModel dx="1250" dy="811" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
@@ -953,7 +953,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="JfWMuSS2fPi8yvbCo3Ry" name="第 9 页">
-    <mxGraphModel dx="3386" dy="1159" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="3683" dy="1352" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="rvrQrUFYrPpTiFFS-c1Y-0"/>
         <mxCell id="rvrQrUFYrPpTiFFS-c1Y-1" parent="rvrQrUFYrPpTiFFS-c1Y-0"/>
@@ -1217,7 +1217,13 @@
           <mxGeometry x="-424" y="750.45" width="290" height="349.55" as="geometry"/>
         </mxCell>
         <mxCell id="mgLgWLtzymm7QTPda7GW-48" value="&lt;span style=&quot;color: rgb(0 , 51 , 204) ; font-family: &amp;#34;microsoftyahei&amp;#34; ; font-size: 14pt ; font-weight: 700 ; background-color: rgb(255 , 255 , 255)&quot;&gt;会展场馆预定管理系统&lt;br&gt;&lt;/span&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fillColor=none;direction=south;" vertex="1" parent="rvrQrUFYrPpTiFFS-c1Y-1">
-          <mxGeometry x="1270" y="899.57" width="240" height="100.43" as="geometry"/>
+          <mxGeometry x="1247.75" y="910" width="240" height="100.43" as="geometry"/>
+        </mxCell>
+        <mxCell id="mgLgWLtzymm7QTPda7GW-49" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=#FFD966;strokeWidth=3;" vertex="1" parent="rvrQrUFYrPpTiFFS-c1Y-1">
+          <mxGeometry x="-131" y="1119.55" width="841" height="140.45" as="geometry"/>
+        </mxCell>
+        <mxCell id="mgLgWLtzymm7QTPda7GW-50" value="&lt;span style=&quot;color: rgb(0 , 51 , 204) ; font-family: &amp;#34;microsoftyahei&amp;#34; ; font-size: 14pt ; font-weight: 700&quot;&gt;大数据统一平台&lt;br&gt;&lt;/span&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fillColor=none;flipV=0;flipH=1;direction=south;align=left;base=52;size=33;position=0.67;position2=0.63;" vertex="1" parent="rvrQrUFYrPpTiFFS-c1Y-1">
+          <mxGeometry x="-434" y="1165" width="297" height="109.55" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
