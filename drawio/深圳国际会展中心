@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-07T02:45:09.130Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="4BZBOG_uWgX0Zq9Svw8i" version="12.4.8" type="github" pages="9">
+<mxfile host="www.draw.io" modified="2020-01-07T02:46:45.705Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="txka_IxOVVz1T2t7_U4j" version="12.4.8" type="github" pages="9">
   <diagram id="ilURIh8u8_e-pet2xJpR" name="第 1 页">
     <mxGraphModel dx="1250" dy="811" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
@@ -386,7 +386,7 @@
           <mxGeometry x="880" y="60" width="60" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="q_sPF_pluo2qE63xf3qm-38" value="" style="group;fontSize=17;fillColor=#ffcc99;strokeColor=#36393d;rounded=0;" vertex="1" connectable="0" parent="uMOUUideBnGZajkp-CJS-1">
-          <mxGeometry x="140" y="150" width="1070" height="90" as="geometry"/>
+          <mxGeometry x="140" y="150" width="1230" height="90" as="geometry"/>
         </mxCell>
         <mxCell id="q_sPF_pluo2qE63xf3qm-41" value="大数据应用1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#77C9F0;fontColor=#000000;fontSize=17;" vertex="1" parent="uMOUUideBnGZajkp-CJS-1">
           <mxGeometry x="370" y="165" width="120" height="60" as="geometry"/>
@@ -426,6 +426,12 @@
         </mxCell>
         <mxCell id="q_sPF_pluo2qE63xf3qm-145" value="Kafka" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=14;fontColor=#FFFFFF;" vertex="1" parent="uMOUUideBnGZajkp-CJS-1">
           <mxGeometry x="906" y="880" width="50" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="q_sPF_pluo2qE63xf3qm-153" value="" style="group;fontSize=17;fillColor=#D2EBFD;strokeColor=#56517e;rounded=0;" vertex="1" connectable="0" parent="uMOUUideBnGZajkp-CJS-1">
+          <mxGeometry x="1220" y="260" width="140" height="680" as="geometry"/>
+        </mxCell>
+        <mxCell id="q_sPF_pluo2qE63xf3qm-154" value="系统管理" style="text;html=1;fontSize=21;fontColor=#000000;fontFamily=Courier New;fontStyle=1" vertex="1" parent="uMOUUideBnGZajkp-CJS-1">
+          <mxGeometry x="1240" y="275" width="80" height="30" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
