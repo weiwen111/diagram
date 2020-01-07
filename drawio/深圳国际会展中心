@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-07T02:43:44.502Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="tVsNlIMocBncXwKWMMaz" version="12.4.8" type="github" pages="9">
+<mxfile host="www.draw.io" modified="2020-01-07T02:44:54.536Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="kahxTrCuqq6383hxwnU1" version="12.4.8" type="github" pages="9">
   <diagram id="ilURIh8u8_e-pet2xJpR" name="第 1 页">
     <mxGraphModel dx="1250" dy="811" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
@@ -367,7 +367,7 @@
         <mxCell id="q_sPF_pluo2qE63xf3qm-133" value="存储计算" style="text;html=1;fontSize=21;fontColor=#000000;fontFamily=Courier New;fontStyle=1" vertex="1" parent="q_sPF_pluo2qE63xf3qm-17">
           <mxGeometry x="10" y="213" width="80" height="30" as="geometry"/>
         </mxCell>
-        <mxCell id="q_sPF_pluo2qE63xf3qm-21" value="" style="group;fontSize=17;fillColor=#cce5ff;strokeColor=#36393d;rounded=0;" vertex="1" connectable="0" parent="uMOUUideBnGZajkp-CJS-1">
+        <mxCell id="q_sPF_pluo2qE63xf3qm-21" value="" style="group;fontSize=17;fillColor=#D2EBFD;strokeColor=#b85450;rounded=0;" vertex="1" connectable="0" parent="uMOUUideBnGZajkp-CJS-1">
           <mxGeometry x="140" y="810" width="1070" height="130" as="geometry"/>
         </mxCell>
         <mxCell id="q_sPF_pluo2qE63xf3qm-136" value="数据采集" style="text;html=1;fontSize=21;fontColor=#000000;fontFamily=Courier New;fontStyle=1" vertex="1" parent="q_sPF_pluo2qE63xf3qm-21">
@@ -385,7 +385,7 @@
         <mxCell id="q_sPF_pluo2qE63xf3qm-146" value="Hadoop&lt;br&gt;Loader" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=14;fontColor=#FFFFFF;" vertex="1" parent="q_sPF_pluo2qE63xf3qm-21">
           <mxGeometry x="880" y="60" width="60" height="40" as="geometry"/>
         </mxCell>
-        <mxCell id="q_sPF_pluo2qE63xf3qm-38" value="" style="group;fontSize=17;fillColor=#d0cee2;strokeColor=#56517e;rounded=0;" vertex="1" connectable="0" parent="uMOUUideBnGZajkp-CJS-1">
+        <mxCell id="q_sPF_pluo2qE63xf3qm-38" value="" style="group;fontSize=17;fillColor=#ffcc99;strokeColor=#36393d;rounded=0;" vertex="1" connectable="0" parent="uMOUUideBnGZajkp-CJS-1">
           <mxGeometry x="140" y="150" width="1070" height="90" as="geometry"/>
         </mxCell>
         <mxCell id="q_sPF_pluo2qE63xf3qm-41" value="大数据应用1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#77C9F0;fontColor=#000000;fontSize=17;" vertex="1" parent="uMOUUideBnGZajkp-CJS-1">
