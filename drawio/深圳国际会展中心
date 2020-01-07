@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-07T02:44:54.536Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="kahxTrCuqq6383hxwnU1" version="12.4.8" type="github" pages="9">
+<mxfile host="www.draw.io" modified="2020-01-07T02:45:09.130Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="4BZBOG_uWgX0Zq9Svw8i" version="12.4.8" type="github" pages="9">
   <diagram id="ilURIh8u8_e-pet2xJpR" name="第 1 页">
     <mxGraphModel dx="1250" dy="811" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
@@ -320,7 +320,7 @@
           <mxGeometry x="820" y="150" width="80" height="270" as="geometry"/>
         </mxCell>
         <mxCell id="q_sPF_pluo2qE63xf3qm-74" value="ZOOKEEPER" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=14;rotation=90;fontColor=#FFFFFF;" vertex="1" parent="q_sPF_pluo2qE63xf3qm-17">
-          <mxGeometry x="800" y="253" width="120" height="30" as="geometry"/>
+          <mxGeometry x="800" y="293" width="120" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="q_sPF_pluo2qE63xf3qm-76" value="集群&lt;br&gt;协调" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=17;" vertex="1" parent="q_sPF_pluo2qE63xf3qm-17">
           <mxGeometry x="835" y="151.5" width="50" height="50" as="geometry"/>
