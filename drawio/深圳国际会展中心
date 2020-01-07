@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-07T02:33:15.955Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="0lw2Wb2C0S6tLaHP9dP-" version="12.4.8" type="github" pages="9">
+<mxfile host="www.draw.io" modified="2020-01-07T02:34:50.028Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="hGvIBjA0bvEbGsLVIbqj" version="12.4.8" type="github" pages="9">
   <diagram id="ilURIh8u8_e-pet2xJpR" name="第 1 页">
     <mxGraphModel dx="1250" dy="811" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
@@ -406,20 +406,14 @@
         <mxCell id="q_sPF_pluo2qE63xf3qm-21" value="" style="group;fontSize=17;fillColor=#cce5ff;strokeColor=#36393d;rounded=0;" vertex="1" connectable="0" parent="uMOUUideBnGZajkp-CJS-1">
           <mxGeometry x="140" y="830" width="1070" height="130" as="geometry"/>
         </mxCell>
-        <mxCell id="q_sPF_pluo2qE63xf3qm-24" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;设备主题dwd_df_&lt;/span&gt;equipment" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6FFCC;fontColor=#000000;fontSize=17;" vertex="1" parent="q_sPF_pluo2qE63xf3qm-21">
-          <mxGeometry x="355" y="28" width="190" height="62" as="geometry"/>
-        </mxCell>
-        <mxCell id="q_sPF_pluo2qE63xf3qm-25" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;......&lt;br style=&quot;font-size: 17px;&quot;&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6FFCC;fontColor=#000000;fontSize=17;" vertex="1" parent="q_sPF_pluo2qE63xf3qm-21">
-          <mxGeometry x="850" y="28" width="160" height="62" as="geometry"/>
-        </mxCell>
-        <mxCell id="q_sPF_pluo2qE63xf3qm-26" value="&lt;span style=&quot;font-family: &amp;quot;helvetica neue&amp;quot;; font-size: 17px;&quot;&gt;场馆主题&lt;br style=&quot;font-size: 17px;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;dwd_df_venue&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6FFCC;fontColor=#000000;fontSize=17;" vertex="1" parent="q_sPF_pluo2qE63xf3qm-21">
-          <mxGeometry x="120" y="25.5" width="180" height="64.5" as="geometry"/>
-        </mxCell>
-        <mxCell id="q_sPF_pluo2qE63xf3qm-27" value="安防主题&lt;br style=&quot;font-size: 17px;&quot;&gt;dwd_df_security" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6FFCC;fontColor=#000000;fontSize=17;" vertex="1" parent="q_sPF_pluo2qE63xf3qm-21">
-          <mxGeometry x="615" y="29" width="150" height="61" as="geometry"/>
-        </mxCell>
         <mxCell id="q_sPF_pluo2qE63xf3qm-136" value="数据采集" style="text;html=1;fontSize=14;fontColor=#FFFFFF;" vertex="1" parent="q_sPF_pluo2qE63xf3qm-21">
           <mxGeometry x="10" y="50" width="80" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="q_sPF_pluo2qE63xf3qm-137" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#77C9F0;fontColor=#000000;fontSize=17;" vertex="1" parent="q_sPF_pluo2qE63xf3qm-21">
+          <mxGeometry x="120" y="12.5" width="870" height="105" as="geometry"/>
+        </mxCell>
+        <mxCell id="q_sPF_pluo2qE63xf3qm-139" value="数据采集及加工处理、系统对接" style="text;html=1;fontSize=17;align=center;" vertex="1" parent="q_sPF_pluo2qE63xf3qm-21">
+          <mxGeometry x="470" y="10" width="100" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="q_sPF_pluo2qE63xf3qm-38" value="" style="group;fontSize=17;fillColor=#d0cee2;strokeColor=#56517e;rounded=0;" vertex="1" connectable="0" parent="uMOUUideBnGZajkp-CJS-1">
           <mxGeometry x="140" y="80" width="1070" height="130" as="geometry"/>
@@ -447,6 +441,9 @@
         </mxCell>
         <mxCell id="q_sPF_pluo2qE63xf3qm-135" value="数据应用" style="text;html=1;fontSize=14;fontColor=#FFFFFF;" vertex="1" parent="uMOUUideBnGZajkp-CJS-1">
           <mxGeometry x="160" y="130" width="80" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="q_sPF_pluo2qE63xf3qm-138" value="分析挖掘" style="text;html=1;fontSize=17;align=center;" vertex="1" parent="uMOUUideBnGZajkp-CJS-1">
+          <mxGeometry x="635" y="405" width="100" height="40" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
