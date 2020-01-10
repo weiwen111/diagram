@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-08T04:05:14.126Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="OcTxfCRwweHI4px95TFl" version="12.4.9" type="github" pages="9">
+<mxfile host="www.draw.io" modified="2020-01-10T03:11:26.625Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="8RBjzygzjKEIabvph7H4" version="12.4.9" type="github" pages="9">
   <diagram id="ilURIh8u8_e-pet2xJpR" name="第 1 页">
     <mxGraphModel dx="1250" dy="811" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
@@ -654,8 +654,8 @@
         <mxCell id="o6ChQss0wmbrcXJjJZXC-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#77C9F0;fontColor=#000000;fontSize=17;" parent="qoeWxieMNjAp4VtGJATH-1" vertex="1">
           <mxGeometry x="136.87" y="1240" width="84.13" height="100" as="geometry"/>
         </mxCell>
-        <mxCell id="o6ChQss0wmbrcXJjJZXC-4" value="&lt;span&gt;Prepostsql&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=14;fontColor=#FFFFFF;" parent="qoeWxieMNjAp4VtGJATH-1" vertex="1">
-          <mxGeometry x="142.00242990654206" y="1298.9958620689656" width="80" height="20" as="geometry"/>
+        <mxCell id="o6ChQss0wmbrcXJjJZXC-4" value="&lt;span&gt;Prostgresql&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=14;fontColor=#FFFFFF;" parent="qoeWxieMNjAp4VtGJATH-1" vertex="1">
+          <mxGeometry x="142.00242990654206" y="1298.9958620689656" width="81" height="21" as="geometry"/>
         </mxCell>
         <mxCell id="o6ChQss0wmbrcXJjJZXC-5" value="Mysql" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=14;fontColor=#FFFFFF;" parent="qoeWxieMNjAp4VtGJATH-1" vertex="1">
           <mxGeometry x="155.0032710280374" y="1260.0010344827585" width="50" height="20" as="geometry"/>
@@ -1419,7 +1419,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="JfWMuSS2fPi8yvbCo3Ry" name="整体网络部署架构">
-    <mxGraphModel dx="2642" dy="676" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="4725" dy="2028" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="rvrQrUFYrPpTiFFS-c1Y-0"/>
         <mxCell id="rvrQrUFYrPpTiFFS-c1Y-1" parent="rvrQrUFYrPpTiFFS-c1Y-0"/>
