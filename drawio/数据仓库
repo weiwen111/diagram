@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-17T02:48:58.097Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="R2xNy2InJf3GfAB28SFV" version="12.5.5" type="github" pages="3">
+<mxfile host="www.draw.io" modified="2020-01-17T02:50:38.848Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="7xy9Egy2oPDP3XQlzC-p" version="12.5.5" type="github" pages="3">
   <diagram id="2LURyLxrXLmh143v04v8" name="元数据影响图">
     <mxGraphModel dx="1250" dy="811" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
@@ -164,6 +164,30 @@
       <root>
         <mxCell id="CHj4j3Tc3hKBmYfGiixN-0"/>
         <mxCell id="CHj4j3Tc3hKBmYfGiixN-1" parent="CHj4j3Tc3hKBmYfGiixN-0"/>
+        <mxCell id="CHj4j3Tc3hKBmYfGiixN-4" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="CHj4j3Tc3hKBmYfGiixN-1" source="CHj4j3Tc3hKBmYfGiixN-2" target="CHj4j3Tc3hKBmYfGiixN-3">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="CHj4j3Tc3hKBmYfGiixN-2" value="ODS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="CHj4j3Tc3hKBmYfGiixN-1">
+          <mxGeometry x="60" y="340" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="CHj4j3Tc3hKBmYfGiixN-6" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="CHj4j3Tc3hKBmYfGiixN-1" source="CHj4j3Tc3hKBmYfGiixN-3" target="CHj4j3Tc3hKBmYfGiixN-5">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="CHj4j3Tc3hKBmYfGiixN-3" value="DW" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="CHj4j3Tc3hKBmYfGiixN-1">
+          <mxGeometry x="60" y="200" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="CHj4j3Tc3hKBmYfGiixN-5" value="App" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="CHj4j3Tc3hKBmYfGiixN-1">
+          <mxGeometry x="60" y="60" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="CHj4j3Tc3hKBmYfGiixN-7" value="数据运营层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="CHj4j3Tc3hKBmYfGiixN-1">
+          <mxGeometry x="236" y="374" width="80" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="CHj4j3Tc3hKBmYfGiixN-8" value="数据仓库层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="CHj4j3Tc3hKBmYfGiixN-1">
+          <mxGeometry x="236" y="226" width="80" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="CHj4j3Tc3hKBmYfGiixN-9" value="数据产品层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="CHj4j3Tc3hKBmYfGiixN-1">
+          <mxGeometry x="236" y="77" width="80" height="20" as="geometry"/>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
