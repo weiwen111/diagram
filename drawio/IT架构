@@ -1,1 +1,35 @@
-<mxfile host="www.draw.io" modified="2020-01-20T02:55:49.961Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" version="12.5.5" etag="E-96Mc_iXqJ1Mp59feRs" type="github"><diagram id="sOQOzgUeNPlBebRKLpKR">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2020-01-20T03:05:26.194Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="yeQeCMWw87sbRy8Yh6vm" version="12.5.5" type="github">
+  <diagram id="sOQOzgUeNPlBebRKLpKR" name="SOA">
+    <mxGraphModel dx="1250" dy="811" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="vzMH6SB4D6ivaBvu6EGH-12" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vzMH6SB4D6ivaBvu6EGH-10" target="vzMH6SB4D6ivaBvu6EGH-11">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="vzMH6SB4D6ivaBvu6EGH-15" value="中心化" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="vzMH6SB4D6ivaBvu6EGH-12">
+          <mxGeometry x="-0.1907" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vzMH6SB4D6ivaBvu6EGH-14" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vzMH6SB4D6ivaBvu6EGH-10" target="vzMH6SB4D6ivaBvu6EGH-13">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="vzMH6SB4D6ivaBvu6EGH-16" value="去中心化" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="vzMH6SB4D6ivaBvu6EGH-14">
+          <mxGeometry x="-0.1513" y="2" relative="1" as="geometry">
+            <mxPoint as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vzMH6SB4D6ivaBvu6EGH-10" value="SOA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="270" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="vzMH6SB4D6ivaBvu6EGH-13" value="微服务&lt;br&gt;扩展性" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="430" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="vzMH6SB4D6ivaBvu6EGH-11" value="ESB&lt;br&gt;协议转换/消息解析/消息路由" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="110" width="120" height="60" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
