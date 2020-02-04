@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-04T04:32:24.813Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="l_vNWSZkcFZhRVOS59-q" version="12.6.4" type="github" pages="3">
+<mxfile host="www.draw.io" modified="2020-02-04T04:34:48.275Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="JJ0oPpxUn6Z-nQi1ST0p" version="12.6.4" type="github" pages="3">
   <diagram id="peZZI9ZodDrZowRDOPi0" name="整体网络部署架构">
     <mxGraphModel dx="4100" dy="1622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
@@ -511,13 +511,10 @@
           <mxGeometry x="450.58" y="543" width="89.42" height="37" as="geometry"/>
         </mxCell>
         <mxCell id="GLNuNuJiWwm5GZrKr-sn-11" value="Springboot" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#77C9F0;fontColor=#000000;fontSize=17;" vertex="1" parent="GLNuNuJiWwm5GZrKr-sn-1">
-          <mxGeometry x="270.42" y="404" width="119.58" height="66" as="geometry"/>
-        </mxCell>
-        <mxCell id="GLNuNuJiWwm5GZrKr-sn-18" value="单点退出" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#77C9F0;fontColor=#000000;fontSize=17;" vertex="1" parent="GLNuNuJiWwm5GZrKr-sn-1">
-          <mxGeometry x="562.9399999999999" y="403" width="114.35" height="67" as="geometry"/>
+          <mxGeometry x="270" y="376" width="160" height="54" as="geometry"/>
         </mxCell>
         <mxCell id="GLNuNuJiWwm5GZrKr-sn-19" value="Aouth2.0" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#77C9F0;fontColor=#000000;fontSize=17;" vertex="1" parent="GLNuNuJiWwm5GZrKr-sn-1">
-          <mxGeometry x="418.94" y="404" width="111.06" height="66" as="geometry"/>
+          <mxGeometry x="521.68" y="376" width="156.06" height="54" as="geometry"/>
         </mxCell>
         <mxCell id="GLNuNuJiWwm5GZrKr-sn-48" value="模块功能" style="text;html=1;fontSize=21;fontColor=#000000;fontFamily=Courier New;fontStyle=1" vertex="1" parent="GLNuNuJiWwm5GZrKr-sn-1">
           <mxGeometry x="153.74271028037384" y="421.5" width="76.26168224299064" height="30" as="geometry"/>
@@ -536,6 +533,12 @@
         </mxCell>
         <mxCell id="GLNuNuJiWwm5GZrKr-sn-96" value="redis" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#77C9F0;fontColor=#000000;fontSize=17;" vertex="1" parent="GLNuNuJiWwm5GZrKr-sn-1">
           <mxGeometry x="660" y="582.44" width="89.42" height="37" as="geometry"/>
+        </mxCell>
+        <mxCell id="GLNuNuJiWwm5GZrKr-sn-100" value="单点退出" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#77C9F0;fontColor=#000000;fontSize=17;" vertex="1" parent="GLNuNuJiWwm5GZrKr-sn-1">
+          <mxGeometry x="270" y="440" width="160" height="54" as="geometry"/>
+        </mxCell>
+        <mxCell id="GLNuNuJiWwm5GZrKr-sn-101" value="域名识别" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#77C9F0;fontColor=#000000;fontSize=17;" vertex="1" parent="GLNuNuJiWwm5GZrKr-sn-1">
+          <mxGeometry x="521.68" y="440" width="156.06" height="54" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
