@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-04T04:35:17.416Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="WrYkUppleD2qZ8BSV-N2" version="12.6.4" type="github" pages="3">
+<mxfile host="www.draw.io" modified="2020-02-04T04:35:42.885Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="ExwPTSb9VunN2tfGN3Pb" version="12.6.4" type="github" pages="3">
   <diagram id="peZZI9ZodDrZowRDOPi0" name="整体网络部署架构">
     <mxGraphModel dx="4100" dy="1622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
@@ -474,7 +474,7 @@
         <mxCell id="GLNuNuJiWwm5GZrKr-sn-63" value="服务应用" style="text;html=1;fontSize=21;fontColor=#000000;fontFamily=Courier New;fontStyle=1" vertex="1" parent="GLNuNuJiWwm5GZrKr-sn-1">
           <mxGeometry x="150" y="180" width="80" height="30" as="geometry"/>
         </mxCell>
-        <mxCell id="GLNuNuJiWwm5GZrKr-sn-69" value="系统管理" style="text;html=1;fontSize=21;fontColor=#000000;fontFamily=Courier New;fontStyle=1" vertex="1" parent="GLNuNuJiWwm5GZrKr-sn-1">
+        <mxCell id="GLNuNuJiWwm5GZrKr-sn-69" value="应用管理" style="text;html=1;fontSize=21;fontColor=#000000;fontFamily=Courier New;fontStyle=1" vertex="1" parent="GLNuNuJiWwm5GZrKr-sn-1">
           <mxGeometry x="785" y="275" width="80" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="GLNuNuJiWwm5GZrKr-sn-70" value="docker化" style="text;html=1;fontSize=14;fontColor=#FFFFFF;align=center;verticalAlign=middle;" vertex="1" parent="GLNuNuJiWwm5GZrKr-sn-1">
