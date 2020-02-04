@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-04T06:22:08.719Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="Rwm63cT_UXWA01W6Qawc" version="12.6.4" type="github" pages="4">
+<mxfile host="www.draw.io" modified="2020-02-04T06:22:52.837Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="_SWnGZDkr1KI4p5Zlqkj" version="12.6.4" type="github" pages="4">
   <diagram id="peZZI9ZodDrZowRDOPi0" name="整体网络部署架构">
     <mxGraphModel dx="4100" dy="1622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
@@ -569,11 +569,22 @@
         <mxCell id="DuXH4DrfBZiDdbCqDBGm-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=block;endFill=1;strokeColor=#000000;strokeWidth=2;fontSize=12;" edge="1" parent="DuXH4DrfBZiDdbCqDBGm-1" source="DuXH4DrfBZiDdbCqDBGm-12" target="DuXH4DrfBZiDdbCqDBGm-14">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
+        <mxCell id="DuXH4DrfBZiDdbCqDBGm-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=block;endFill=1;strokeColor=#000000;strokeWidth=2;fontSize=12;" edge="1" parent="DuXH4DrfBZiDdbCqDBGm-1" source="DuXH4DrfBZiDdbCqDBGm-12" target="DuXH4DrfBZiDdbCqDBGm-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="590" y="210"/>
+              <mxPoint x="590" y="285"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="DuXH4DrfBZiDdbCqDBGm-12" value="passport" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;fontSize=12;align=center;" vertex="1" parent="DuXH4DrfBZiDdbCqDBGm-1">
           <mxGeometry x="460" y="185" width="90" height="50" as="geometry"/>
         </mxCell>
+        <mxCell id="DuXH4DrfBZiDdbCqDBGm-18" value="redis" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;fontSize=12;align=center;" vertex="1" parent="DuXH4DrfBZiDdbCqDBGm-1">
+          <mxGeometry x="630" y="260" width="90" height="50" as="geometry"/>
+        </mxCell>
         <mxCell id="DuXH4DrfBZiDdbCqDBGm-14" value="mysql" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;fontSize=12;align=center;" vertex="1" parent="DuXH4DrfBZiDdbCqDBGm-1">
-          <mxGeometry x="630" y="185" width="90" height="50" as="geometry"/>
+          <mxGeometry x="630" y="135" width="90" height="50" as="geometry"/>
         </mxCell>
         <mxCell id="DuXH4DrfBZiDdbCqDBGm-17" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=block;endFill=1;strokeColor=#000000;strokeWidth=2;fontSize=12;" edge="1" parent="DuXH4DrfBZiDdbCqDBGm-1" source="DuXH4DrfBZiDdbCqDBGm-4">
           <mxGeometry relative="1" as="geometry">
