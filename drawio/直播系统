@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-04T04:35:57.773Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="NhhNGh0CkBslzbiaGR-G" version="12.6.4" type="github" pages="3">
+<mxfile host="www.draw.io" modified="2020-02-04T06:22:08.719Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="Rwm63cT_UXWA01W6Qawc" version="12.6.4" type="github" pages="4">
   <diagram id="peZZI9ZodDrZowRDOPi0" name="整体网络部署架构">
     <mxGraphModel dx="4100" dy="1622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
@@ -539,6 +539,53 @@
         </mxCell>
         <mxCell id="GLNuNuJiWwm5GZrKr-sn-101" value="租户识别" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#77C9F0;fontColor=#000000;fontSize=17;" vertex="1" parent="GLNuNuJiWwm5GZrKr-sn-1">
           <mxGeometry x="521.68" y="440" width="156.06" height="54" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="D-XqS4iXLgGqqkT3x8cC" name="接口调用">
+    <mxGraphModel dx="1250" dy="811" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+      <root>
+        <mxCell id="DuXH4DrfBZiDdbCqDBGm-0"/>
+        <mxCell id="DuXH4DrfBZiDdbCqDBGm-1" parent="DuXH4DrfBZiDdbCqDBGm-0"/>
+        <mxCell id="DuXH4DrfBZiDdbCqDBGm-16" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=block;endFill=1;strokeColor=#000000;strokeWidth=2;fontSize=12;" edge="1" parent="DuXH4DrfBZiDdbCqDBGm-1" source="DuXH4DrfBZiDdbCqDBGm-2" target="DuXH4DrfBZiDdbCqDBGm-9">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="DuXH4DrfBZiDdbCqDBGm-2" value="api" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;fontSize=12;align=center;" vertex="1" parent="DuXH4DrfBZiDdbCqDBGm-1">
+          <mxGeometry x="120" y="90" width="90" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="DuXH4DrfBZiDdbCqDBGm-11" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=block;endFill=1;strokeColor=#000000;strokeWidth=2;fontSize=12;" edge="1" parent="DuXH4DrfBZiDdbCqDBGm-1" source="DuXH4DrfBZiDdbCqDBGm-3" target="DuXH4DrfBZiDdbCqDBGm-9">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="DuXH4DrfBZiDdbCqDBGm-3" value="js/css" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;fontSize=12;align=center;" vertex="1" parent="DuXH4DrfBZiDdbCqDBGm-1">
+          <mxGeometry x="120" y="185" width="90" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="DuXH4DrfBZiDdbCqDBGm-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=block;endFill=1;strokeColor=#000000;strokeWidth=2;fontSize=12;" edge="1" parent="DuXH4DrfBZiDdbCqDBGm-1" source="DuXH4DrfBZiDdbCqDBGm-9" target="DuXH4DrfBZiDdbCqDBGm-12">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="DuXH4DrfBZiDdbCqDBGm-9" value="nginx" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;fontSize=12;align=center;" vertex="1" parent="DuXH4DrfBZiDdbCqDBGm-1">
+          <mxGeometry x="290" y="185" width="90" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="DuXH4DrfBZiDdbCqDBGm-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=block;endFill=1;strokeColor=#000000;strokeWidth=2;fontSize=12;" edge="1" parent="DuXH4DrfBZiDdbCqDBGm-1" source="DuXH4DrfBZiDdbCqDBGm-12" target="DuXH4DrfBZiDdbCqDBGm-14">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="DuXH4DrfBZiDdbCqDBGm-12" value="passport" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;fontSize=12;align=center;" vertex="1" parent="DuXH4DrfBZiDdbCqDBGm-1">
+          <mxGeometry x="460" y="185" width="90" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="DuXH4DrfBZiDdbCqDBGm-14" value="mysql" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;fontSize=12;align=center;" vertex="1" parent="DuXH4DrfBZiDdbCqDBGm-1">
+          <mxGeometry x="630" y="185" width="90" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="DuXH4DrfBZiDdbCqDBGm-17" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=block;endFill=1;strokeColor=#000000;strokeWidth=2;fontSize=12;" edge="1" parent="DuXH4DrfBZiDdbCqDBGm-1" source="DuXH4DrfBZiDdbCqDBGm-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="210" as="targetPoint"/>
+            <Array as="points">
+              <mxPoint x="250" y="305"/>
+              <mxPoint x="250" y="210"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DuXH4DrfBZiDdbCqDBGm-4" value="图片" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;fontSize=12;align=center;" vertex="1" parent="DuXH4DrfBZiDdbCqDBGm-1">
+          <mxGeometry x="120" y="280" width="90" height="50" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
