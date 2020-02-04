@@ -1,5 +1,5 @@
-<mxfile host="www.draw.io" modified="2020-02-04T03:38:19.864Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="q5SKRJY2HseSz6FvBmj5" version="12.6.4" type="github" pages="2">
-  <diagram id="peZZI9ZodDrZowRDOPi0" name="第 1 页">
+<mxfile host="www.draw.io" modified="2020-02-04T03:47:57.572Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="ZxGbFqXofxq3-uaUrG8z" version="12.6.4" type="github" pages="2">
+  <diagram id="peZZI9ZodDrZowRDOPi0" name="整体网络部署架构">
     <mxGraphModel dx="4100" dy="1622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
@@ -259,8 +259,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="8lhkGyj0YqISBXLtrmGR" name="第 2 页">
-    <mxGraphModel dx="862" dy="559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+  <diagram id="8lhkGyj0YqISBXLtrmGR" name="日志收集">
+    <mxGraphModel dx="1250" dy="811" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="I4_5gKim-dnWyHJ3wjE4-0"/>
         <mxCell id="I4_5gKim-dnWyHJ3wjE4-1" parent="I4_5gKim-dnWyHJ3wjE4-0"/>
