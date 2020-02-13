@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-10T03:11:26.625Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="8RBjzygzjKEIabvph7H4" version="12.4.9" type="github" pages="9">
+<mxfile host="www.draw.io" modified="2020-02-13T01:00:08.629Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="FHs8OCAHBsbcp4cEyD7p" version="12.6.4" type="github" pages="10">
   <diagram id="ilURIh8u8_e-pet2xJpR" name="第 1 页">
     <mxGraphModel dx="1250" dy="811" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
@@ -950,7 +950,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="OkPe5ypJ43-N1pefUFTX" name="网络拓扑图">
-    <mxGraphModel dx="2500" dy="2522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="1250" dy="1711" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="cbZaRAh6-IHKHp4tatO4-0"/>
         <mxCell id="cbZaRAh6-IHKHp4tatO4-1" parent="cbZaRAh6-IHKHp4tatO4-0"/>
@@ -1126,7 +1126,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="WWeuv80NRoBm2txffe-V" name="大数据统一平台部署架构">
-    <mxGraphModel dx="2850" dy="811" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="3683" dy="1352" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="bTTTMibBiaoxzihiF6JQ-0"/>
         <mxCell id="bTTTMibBiaoxzihiF6JQ-1" parent="bTTTMibBiaoxzihiF6JQ-0"/>
@@ -1419,7 +1419,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="JfWMuSS2fPi8yvbCo3Ry" name="整体网络部署架构">
-    <mxGraphModel dx="4725" dy="2028" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="4100" dy="1622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="rvrQrUFYrPpTiFFS-c1Y-0"/>
         <mxCell id="rvrQrUFYrPpTiFFS-c1Y-1" parent="rvrQrUFYrPpTiFFS-c1Y-0"/>
@@ -1713,6 +1713,14 @@
         <mxCell id="v1I9gobWBxf2J1Z71VZZ-3" value="专线" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=19;" parent="rvrQrUFYrPpTiFFS-c1Y-1" vertex="1">
           <mxGeometry x="928" y="1358" width="50" height="30" as="geometry"/>
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="gasWJDp36dYe3wKzkGep" name="发布订阅">
+    <mxGraphModel dx="1250" dy="811" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+      <root>
+        <mxCell id="ewt9b0bDlqoN6nYvXe-C-0"/>
+        <mxCell id="ewt9b0bDlqoN6nYvXe-C-1" parent="ewt9b0bDlqoN6nYvXe-C-0"/>
       </root>
     </mxGraphModel>
   </diagram>
