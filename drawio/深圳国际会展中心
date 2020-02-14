@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-14T00:46:16.388Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36" etag="zSc-kHXVxs4SDgC9nu6F" version="12.6.8" type="github" pages="10">
+<mxfile host="www.draw.io" modified="2020-02-14T01:47:46.970Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36" etag="YYWVgW8TqwQJv1e_SeRW" version="12.6.8" type="github" pages="10">
   <diagram id="ilURIh8u8_e-pet2xJpR" name="第 1 页">
     <mxGraphModel dx="1250" dy="811" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
@@ -1750,22 +1750,34 @@
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="2_dGwW0GYUH-pcADxhRg-5" value="sql" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="ewt9b0bDlqoN6nYvXe-C-1">
-          <mxGeometry x="110" y="750" width="120" height="80" as="geometry"/>
+          <mxGeometry x="250" y="700" width="120" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="2_dGwW0GYUH-pcADxhRg-9" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="ewt9b0bDlqoN6nYvXe-C-1" source="2_dGwW0GYUH-pcADxhRg-6" target="2_dGwW0GYUH-pcADxhRg-8">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="2_dGwW0GYUH-pcADxhRg-6" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="ewt9b0bDlqoN6nYvXe-C-1">
-          <mxGeometry x="530" y="630" width="120" height="60" as="geometry"/>
+        <mxCell id="2_dGwW0GYUH-pcADxhRg-6" value="生成执行记录" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="ewt9b0bDlqoN6nYvXe-C-1">
+          <mxGeometry x="525" y="630" width="130" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="2_dGwW0GYUH-pcADxhRg-11" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="ewt9b0bDlqoN6nYvXe-C-1" source="2_dGwW0GYUH-pcADxhRg-8" target="2_dGwW0GYUH-pcADxhRg-10">
+        <mxCell id="2_dGwW0GYUH-pcADxhRg-13" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="ewt9b0bDlqoN6nYvXe-C-1" source="2_dGwW0GYUH-pcADxhRg-8" target="2_dGwW0GYUH-pcADxhRg-12">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="2_dGwW0GYUH-pcADxhRg-8" value="hivesql" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="ewt9b0bDlqoN6nYvXe-C-1">
           <mxGeometry x="530" y="750" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="2_dGwW0GYUH-pcADxhRg-10" value="export库" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="ewt9b0bDlqoN6nYvXe-C-1">
-          <mxGeometry x="730" y="750" width="120" height="60" as="geometry"/>
+          <mxGeometry x="1020" y="750" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="2_dGwW0GYUH-pcADxhRg-14" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;" edge="1" parent="ewt9b0bDlqoN6nYvXe-C-1" source="2_dGwW0GYUH-pcADxhRg-12" target="2_dGwW0GYUH-pcADxhRg-10">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="2_dGwW0GYUH-pcADxhRg-12" value="建立对应导出表" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=20;" vertex="1" parent="ewt9b0bDlqoN6nYvXe-C-1">
+          <mxGeometry x="730" y="740" width="180" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="2_dGwW0GYUH-pcADxhRg-17" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.008;entryY=0.588;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=20;" edge="1" parent="ewt9b0bDlqoN6nYvXe-C-1" source="2_dGwW0GYUH-pcADxhRg-16" target="2_dGwW0GYUH-pcADxhRg-5">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="2_dGwW0GYUH-pcADxhRg-16" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/browsers-1/512/Browser_D-128.png;fontSize=20;" vertex="1" parent="ewt9b0bDlqoN6nYvXe-C-1">
+          <mxGeometry x="20" y="720" width="60" height="60" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
