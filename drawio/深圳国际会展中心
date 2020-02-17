@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-14T06:52:37.996Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36" etag="WhkW0TbYax-lV9ocimwr" version="12.6.8" type="github" pages="10">
+<mxfile host="www.draw.io" modified="2020-02-17T09:22:44.483Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36" etag="miYWMTIAm2HCHNP0s-OH" version="12.6.8" type="github" pages="11">
   <diagram id="ilURIh8u8_e-pet2xJpR" name="第 1 页">
     <mxGraphModel dx="1250" dy="811" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
@@ -1717,7 +1717,7 @@
           </mxGraphModel>
       </diagram>
   <diagram id="gasWJDp36dYe3wKzkGep" name="发布订阅">
-    <mxGraphModel dx="2898" dy="1734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="2850" dy="1711" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="ewt9b0bDlqoN6nYvXe-C-0"/>
         <mxCell id="ewt9b0bDlqoN6nYvXe-C-1" parent="ewt9b0bDlqoN6nYvXe-C-0"/>
@@ -1890,6 +1890,32 @@
         </mxCell>
         <mxCell id="2_dGwW0GYUH-pcADxhRg-43" value="export库" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="ewt9b0bDlqoN6nYvXe-C-1">
           <mxGeometry x="490" y="-20" width="120" height="60" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="9iJxef2IEo2bPj1_u_Q1" name="接口开放">
+    <mxGraphModel dx="1250" dy="811" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+      <root>
+        <mxCell id="8I3BJTl7wq2mDcBm_xy0-0"/>
+        <mxCell id="8I3BJTl7wq2mDcBm_xy0-1" parent="8I3BJTl7wq2mDcBm_xy0-0"/>
+        <mxCell id="8I3BJTl7wq2mDcBm_xy0-4" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="8I3BJTl7wq2mDcBm_xy0-1" source="8I3BJTl7wq2mDcBm_xy0-2" target="8I3BJTl7wq2mDcBm_xy0-3">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="8I3BJTl7wq2mDcBm_xy0-2" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/browsers-1/512/Browser_D-128.png;fontSize=20;" vertex="1" parent="8I3BJTl7wq2mDcBm_xy0-1">
+          <mxGeometry x="60" y="120" width="128" height="128" as="geometry"/>
+        </mxCell>
+        <mxCell id="8I3BJTl7wq2mDcBm_xy0-3" value="hiveSql脚本&lt;br&gt;hiveSql脚本&lt;br&gt;......" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="8I3BJTl7wq2mDcBm_xy0-1">
+          <mxGeometry x="360" y="131" width="120" height="106" as="geometry"/>
+        </mxCell>
+        <mxCell id="8I3BJTl7wq2mDcBm_xy0-5" value="hive" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;fontSize=20;" vertex="1" parent="8I3BJTl7wq2mDcBm_xy0-1">
+          <mxGeometry x="730" y="144" width="60" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="8I3BJTl7wq2mDcBm_xy0-9" value="" style="shape=flexArrow;endArrow=classic;html=1;fontSize=20;" edge="1" parent="8I3BJTl7wq2mDcBm_xy0-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="183.5" as="sourcePoint"/>
+            <mxPoint x="720" y="183.5" as="targetPoint"/>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
