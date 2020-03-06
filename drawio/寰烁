@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-03-06T09:26:27.008Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36" etag="JJ18pk2rsnvkCqr0nptS" version="12.8.1" type="github" pages="2">
+<mxfile host="www.draw.io" modified="2020-03-06T09:27:48.916Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36" etag="J_upMzrA0ELQEuP2Jft1" version="12.8.1" type="github" pages="2">
   <diagram id="sYfFkhFNZ8HCn-Ea-9gs" name="CDH">
     <mxGraphModel dx="3683" dy="1352" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
@@ -185,6 +185,15 @@
         </mxCell>
         <mxCell id="8L2Li2niyGv3lba_E4q8-36" value="HDFS" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="-6ofm1UNiFWlFuEkiP6S-1">
           <mxGeometry x="840" y="400" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8L2Li2niyGv3lba_E4q8-37" value="yc" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="-6ofm1UNiFWlFuEkiP6S-1">
+          <mxGeometry x="840" y="810" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8L2Li2niyGv3lba_E4q8-38" value="read" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="-6ofm1UNiFWlFuEkiP6S-1">
+          <mxGeometry x="930" y="810" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8L2Li2niyGv3lba_E4q8-39" value="......" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="-6ofm1UNiFWlFuEkiP6S-1">
+          <mxGeometry x="1050" y="810" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
