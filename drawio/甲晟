@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-03-10T07:08:29.777Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36" etag="789FBsBcVq_NGtFhUIZa" version="12.8.2" type="github">
+<mxfile host="www.draw.io" modified="2020-03-10T09:04:34.888Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36" etag="WMJK8Dqiy9Jur0K3-VSR" version="12.8.2" type="github">
   <diagram id="cMtvxelVXzYt1UVYF9Ro" name="第 1 页">
     <mxGraphModel dx="1250" dy="811" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -49,7 +49,7 @@
         <mxCell id="zEjIX2BXiGue8j6NzajI-24" value="redis集群" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="zEjIX2BXiGue8j6NzajI-19">
           <mxGeometry x="5" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zEjIX2BXiGue8j6NzajI-25" value="机器A" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="zEjIX2BXiGue8j6NzajI-19">
+        <mxCell id="zEjIX2BXiGue8j6NzajI-25" value="机器B" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="zEjIX2BXiGue8j6NzajI-19">
           <mxGeometry x="40" y="20" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="zEjIX2BXiGue8j6NzajI-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="zEjIX2BXiGue8j6NzajI-20" target="zEjIX2BXiGue8j6NzajI-16">
