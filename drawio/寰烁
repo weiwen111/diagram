@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-03-06T09:31:03.865Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36" etag="Gf864f8Sg0vhrSDtbGBq" version="12.8.1" type="github" pages="2">
+<mxfile host="www.draw.io" modified="2020-03-17T09:24:52.064Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36" etag="pGByLGubqnXPQXEEN6mC" version="12.8.1" type="github" pages="3">
   <diagram id="sYfFkhFNZ8HCn-Ea-9gs" name="CDH">
     <mxGraphModel dx="3683" dy="1352" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
@@ -189,6 +189,14 @@
         <mxCell id="8L2Li2niyGv3lba_E4q8-39" value="......" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="-6ofm1UNiFWlFuEkiP6S-1">
           <mxGeometry x="1050" y="810" width="110" height="50" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="STuipIibWmyb8DmiSypV" name="Kettle 统计任务">
+    <mxGraphModel dx="1250" dy="811" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="dv3SlROfuBrRx5sP1hav-0" />
+        <mxCell id="dv3SlROfuBrRx5sP1hav-1" parent="dv3SlROfuBrRx5sP1hav-0" />
       </root>
     </mxGraphModel>
   </diagram>
