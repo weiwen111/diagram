@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-03-31T08:42:55.043Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="xX6KYv_CpPZRpZYclua3" version="12.9.0" type="github" pages="5">
+<mxfile host="www.draw.io" modified="2020-03-31T08:43:22.602Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="g9jFNC4sn0ab6eTB3rpe" version="12.9.0" type="github" pages="6">
   <diagram id="rXdT_AbMjztcOf6ziUji" name="业务数仓分层架构图">
     <mxGraphModel dx="1250" dy="811" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1015,6 +1015,14 @@
         <mxCell id="6YRR41au2ZHA6Uo1O8Sv-81" value="专线" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=19;" vertex="1" parent="6YRR41au2ZHA6Uo1O8Sv-1">
           <mxGeometry x="928" y="1358" width="50" height="30" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="A2PgTUe5Z8hreg0B1vhn" name="数据流向">
+    <mxGraphModel dx="1250" dy="811" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="gf8kVjhrFDubQUPfGTnY-0" />
+        <mxCell id="gf8kVjhrFDubQUPfGTnY-1" parent="gf8kVjhrFDubQUPfGTnY-0" />
       </root>
     </mxGraphModel>
   </diagram>
