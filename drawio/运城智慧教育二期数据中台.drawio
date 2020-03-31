@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-03-31T09:37:09.666Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="1DlXOWVwkOdMqFwAuzcG" version="12.9.0" type="github" pages="6">
+<mxfile host="www.draw.io" modified="2020-03-31T09:37:38.542Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="xiU3vbqTz1E0zoJGdHQ0" version="12.9.0" type="github" pages="6">
   <diagram id="rXdT_AbMjztcOf6ziUji" name="业务数仓分层架构图">
     <mxGraphModel dx="1250" dy="811" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1128,8 +1128,14 @@
         <mxCell id="gf8kVjhrFDubQUPfGTnY-23" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 16px&quot;&gt;hive/sparkSQL&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#4e74bf;strokeColor=#36393d;fontSize=16;" vertex="1" parent="gf8kVjhrFDubQUPfGTnY-1">
           <mxGeometry x="600" y="230" width="130" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="gf8kVjhrFDubQUPfGTnY-54" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#CCCCCC;strokeWidth=2;fontSize=16;" edge="1" parent="gf8kVjhrFDubQUPfGTnY-1" source="gf8kVjhrFDubQUPfGTnY-28" target="gf8kVjhrFDubQUPfGTnY-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="gf8kVjhrFDubQUPfGTnY-28" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 16px&quot;&gt;hive/hdfs&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a5a5a5;strokeColor=#36393d;fontSize=16;" vertex="1" parent="gf8kVjhrFDubQUPfGTnY-1">
           <mxGeometry x="1191" y="90" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="gf8kVjhrFDubQUPfGTnY-55" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#CCCCCC;strokeWidth=2;fontSize=16;" edge="1" parent="gf8kVjhrFDubQUPfGTnY-1" source="gf8kVjhrFDubQUPfGTnY-29" target="gf8kVjhrFDubQUPfGTnY-46">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gf8kVjhrFDubQUPfGTnY-29" value="&lt;font color=&quot;#ffffff&quot;&gt;es/kylin&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a5a5a5;strokeColor=#36393d;fontSize=16;" vertex="1" parent="gf8kVjhrFDubQUPfGTnY-1">
           <mxGeometry x="1191" y="160" width="100" height="50" as="geometry" />
