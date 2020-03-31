@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-03-31T08:39:22.748Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="PQK65aFd0fxNwMSMWiby" version="12.9.0" type="github" pages="5">
+<mxfile host="www.draw.io" modified="2020-03-31T08:42:55.043Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="xX6KYv_CpPZRpZYclua3" version="12.9.0" type="github" pages="5">
   <diagram id="rXdT_AbMjztcOf6ziUji" name="业务数仓分层架构图">
     <mxGraphModel dx="1250" dy="811" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -22,7 +22,7 @@
         <mxCell id="EEIpJaZ_c5d_XrYRGtcN-4" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;fontSize=19;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="140" y="790" width="520" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="EEIpJaZ_c5d_XrYRGtcN-9" value="上海教研馆" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;fillColor=#fff2cc;fontSize=19;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="EEIpJaZ_c5d_XrYRGtcN-9" value="上海资源馆" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;fillColor=#fff2cc;fontSize=19;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="652" y="675" width="107" height="75" as="geometry" />
         </mxCell>
         <mxCell id="EEIpJaZ_c5d_XrYRGtcN-13" value="" style="group;fontSize=19;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;" vertex="1" connectable="0" parent="1">
@@ -61,16 +61,16 @@
         <mxCell id="EEIpJaZ_c5d_XrYRGtcN-24" value="DWD层" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCFFFF;flipV=1;fontSize=19;strokeColor=#36393d;" vertex="1" parent="EEIpJaZ_c5d_XrYRGtcN-22">
           <mxGeometry width="90" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="EEIpJaZ_c5d_XrYRGtcN-25" value="&lt;span style=&quot;font-size: 19px&quot;&gt;设备主题dwd_df_&lt;/span&gt;equipment" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;fontSize=19;strokeColor=#d6b656;" vertex="1" parent="EEIpJaZ_c5d_XrYRGtcN-22">
+        <mxCell id="EEIpJaZ_c5d_XrYRGtcN-25" value="&lt;span style=&quot;font-size: 19px&quot;&gt;活动主题dwd_df_&lt;/span&gt;activity" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;fontSize=19;strokeColor=#d6b656;" vertex="1" parent="EEIpJaZ_c5d_XrYRGtcN-22">
           <mxGeometry x="355" y="28" width="190" height="62" as="geometry" />
         </mxCell>
         <mxCell id="EEIpJaZ_c5d_XrYRGtcN-26" value="&lt;span style=&quot;font-size: 19px&quot;&gt;......&lt;br style=&quot;font-size: 19px&quot;&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;fontSize=19;strokeColor=#d6b656;" vertex="1" parent="EEIpJaZ_c5d_XrYRGtcN-22">
           <mxGeometry x="850" y="28" width="160" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="EEIpJaZ_c5d_XrYRGtcN-27" value="&lt;span style=&quot;font-family: &amp;#34;helvetica neue&amp;#34; ; font-size: 19px&quot;&gt;场馆主题&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 19px&quot;&gt;dwd_df_venue&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;fontSize=19;strokeColor=#d6b656;" vertex="1" parent="EEIpJaZ_c5d_XrYRGtcN-22">
+        <mxCell id="EEIpJaZ_c5d_XrYRGtcN-27" value="&lt;span style=&quot;font-family: &amp;#34;helvetica neue&amp;#34; ; font-size: 19px&quot;&gt;用户主题&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 19px&quot;&gt;dwd_df_user&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;fontSize=19;strokeColor=#d6b656;" vertex="1" parent="EEIpJaZ_c5d_XrYRGtcN-22">
           <mxGeometry x="120" y="25.5" width="180" height="64.5" as="geometry" />
         </mxCell>
-        <mxCell id="EEIpJaZ_c5d_XrYRGtcN-28" value="安防主题&lt;br&gt;dwd_df_security" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;fontSize=19;strokeColor=#d6b656;" vertex="1" parent="EEIpJaZ_c5d_XrYRGtcN-22">
+        <mxCell id="EEIpJaZ_c5d_XrYRGtcN-28" value="资源主题&lt;br&gt;dwd_df_resource" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;fontSize=19;strokeColor=#d6b656;" vertex="1" parent="EEIpJaZ_c5d_XrYRGtcN-22">
           <mxGeometry x="615" y="29" width="150" height="61" as="geometry" />
         </mxCell>
         <mxCell id="EEIpJaZ_c5d_XrYRGtcN-29" value="统计表" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;fontSize=19;strokeColor=#d6b656;" vertex="1" parent="1">
