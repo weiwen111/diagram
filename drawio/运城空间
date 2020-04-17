@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-04-17T04:03:30.819Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="xx3TYwnlP8Zs_4UzHD32" version="12.9.5" type="github">
+<mxfile host="www.draw.io" modified="2020-04-17T04:04:44.977Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="azyxY-EYxkVElzAaoLbD" version="12.9.5" type="github">
   <diagram id="A8ur06DNwPvKbhj8TN78" name="空间1.0">
     <mxGraphModel dx="1250" dy="811" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -43,8 +43,8 @@
         <mxCell id="ild8ydI0AzDVEAHNxU5q-14" value="" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;fontSize=20;fontColor=#FFFFFF;strokeColor=none;fillColor=#e2b09f;" vertex="1" parent="1">
           <mxGeometry x="420" y="760" width="120" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="ild8ydI0AzDVEAHNxU5q-16" value="web" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;fontSize=20;fillColor=#e2b09f;strokeColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="314" y="630" width="120" height="60" as="geometry" />
+        <mxCell id="ild8ydI0AzDVEAHNxU5q-16" value="nginx" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;fontSize=20;fillColor=#e2b09f;strokeColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="90" y="670" width="620" height="70" as="geometry" />
         </mxCell>
         <mxCell id="ild8ydI0AzDVEAHNxU5q-20" value="首页" style="text;html=1;fontSize=20;fontFamily=Comic Sans MS;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="130" y="770" width="60" height="40" as="geometry" />
