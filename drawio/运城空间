@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-04-17T03:58:54.554Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="xWaZ0Uo7rP0qG3hQpmJu" version="12.9.5" type="github">
+<mxfile host="www.draw.io" modified="2020-04-17T04:00:47.465Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="9OcHXC-qqwmoXx_08BNq" version="12.9.5" type="github">
   <diagram id="A8ur06DNwPvKbhj8TN78" name="空间1.0">
     <mxGraphModel dx="1250" dy="811" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -40,8 +40,8 @@
         <mxCell id="ild8ydI0AzDVEAHNxU5q-13" value="" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;fontSize=20;fontColor=#FFFFFF;strokeColor=none;fillColor=#e2b09f;" vertex="1" parent="1">
           <mxGeometry x="590" y="760" width="120" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="ild8ydI0AzDVEAHNxU5q-14" value="资源中心" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;fontSize=20;fontColor=#FFFFFF;strokeColor=none;fillColor=#e2b09f;" vertex="1" parent="1">
-          <mxGeometry x="420" y="760" width="120" height="60" as="geometry" />
+        <mxCell id="ild8ydI0AzDVEAHNxU5q-14" value="" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;fontSize=20;fontColor=#FFFFFF;strokeColor=none;fillColor=#e2b09f;" vertex="1" parent="1">
+          <mxGeometry x="420" y="760" width="120" height="230" as="geometry" />
         </mxCell>
         <mxCell id="ild8ydI0AzDVEAHNxU5q-16" value="web" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;fontSize=20;fillColor=#e2b09f;strokeColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="314" y="630" width="120" height="60" as="geometry" />
@@ -53,10 +53,10 @@
           <mxGeometry x="110" y="810" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ild8ydI0AzDVEAHNxU5q-22" value="springboot" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fillColor=#e2b09f;fontFamily=Comic Sans MS;fontSize=15;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="110" y="850" width="80" height="30" as="geometry" />
+          <mxGeometry x="110" y="853" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ild8ydI0AzDVEAHNxU5q-23" value="redis" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fillColor=#e2b09f;fontFamily=Comic Sans MS;fontSize=15;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="110" y="890" width="80" height="30" as="geometry" />
+          <mxGeometry x="110" y="897" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ild8ydI0AzDVEAHNxU5q-24" value="mysql" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fillColor=#e2b09f;fontFamily=Comic Sans MS;fontSize=15;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="110" y="940" width="80" height="30" as="geometry" />
@@ -68,7 +68,7 @@
           <mxGeometry x="270" y="820" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ild8ydI0AzDVEAHNxU5q-27" value="freemarker" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fillColor=#e2b09f;fontFamily=Comic Sans MS;fontSize=15;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="270" y="860" width="80" height="30" as="geometry" />
+          <mxGeometry x="270" y="870" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ild8ydI0AzDVEAHNxU5q-28" value="mysql" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fillColor=#e2b09f;fontFamily=Comic Sans MS;fontSize=15;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="270" y="920" width="80" height="30" as="geometry" />
@@ -87,6 +87,21 @@
         </mxCell>
         <mxCell id="ild8ydI0AzDVEAHNxU5q-33" value="kafka" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fillColor=#e2b09f;fontFamily=Comic Sans MS;fontSize=15;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="610" y="900" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ild8ydI0AzDVEAHNxU5q-34" value="&lt;font style=&quot;font-size: 20px&quot;&gt;资源中心&lt;/font&gt;" style="text;html=1;fontSize=15;fontFamily=Comic Sans MS;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="435" y="775" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ild8ydI0AzDVEAHNxU5q-35" value="springboot" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fillColor=#e2b09f;fontFamily=Comic Sans MS;fontSize=15;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="440" y="820" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ild8ydI0AzDVEAHNxU5q-36" value="freemarker" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fillColor=#e2b09f;fontFamily=Comic Sans MS;fontSize=15;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="440" y="860" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ild8ydI0AzDVEAHNxU5q-37" value="mysql" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fillColor=#e2b09f;fontFamily=Comic Sans MS;fontSize=15;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="440" y="940" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ild8ydI0AzDVEAHNxU5q-38" value="elasticsearch" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fillColor=#e2b09f;fontFamily=Comic Sans MS;fontSize=15;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="440" y="900" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
