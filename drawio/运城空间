@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-04-17T03:55:41.085Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="xGuOLIlSNXeBkgHl-3sX" version="12.9.5" type="github">
+<mxfile host="www.draw.io" modified="2020-04-17T03:57:17.508Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="WNPT9r2fk88W6A8MFD1h" version="12.9.5" type="github">
   <diagram id="A8ur06DNwPvKbhj8TN78" name="空间1.0">
     <mxGraphModel dx="1250" dy="811" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -34,10 +34,10 @@
         <mxCell id="ild8ydI0AzDVEAHNxU5q-11" value="" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;fontSize=20;fontColor=#FFFFFF;strokeColor=none;fillColor=#e2b09f;" vertex="1" parent="1">
           <mxGeometry x="90" y="760" width="120" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="ild8ydI0AzDVEAHNxU5q-12" value="校园空间" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;fontSize=20;fontColor=#FFFFFF;strokeColor=none;fillColor=#e2b09f;" vertex="1" parent="1">
-          <mxGeometry x="250" y="760" width="120" height="60" as="geometry" />
+        <mxCell id="ild8ydI0AzDVEAHNxU5q-12" value="" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;fontSize=20;fontColor=#FFFFFF;strokeColor=none;fillColor=#e2b09f;" vertex="1" parent="1">
+          <mxGeometry x="250" y="760" width="120" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="ild8ydI0AzDVEAHNxU5q-13" value="个人中心" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;fontSize=20;fontColor=#FFFFFF;strokeColor=none;fillColor=#e2b09f;" vertex="1" parent="1">
+        <mxCell id="ild8ydI0AzDVEAHNxU5q-13" value="个人空间" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;fontSize=20;fontColor=#FFFFFF;strokeColor=none;fillColor=#e2b09f;" vertex="1" parent="1">
           <mxGeometry x="590" y="760" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ild8ydI0AzDVEAHNxU5q-14" value="资源中心" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;fontSize=20;fontColor=#FFFFFF;strokeColor=none;fillColor=#e2b09f;" vertex="1" parent="1">
@@ -60,6 +60,18 @@
         </mxCell>
         <mxCell id="ild8ydI0AzDVEAHNxU5q-24" value="mysql" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fillColor=#e2b09f;fontFamily=Comic Sans MS;fontSize=20;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="110" y="940" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ild8ydI0AzDVEAHNxU5q-25" value="校园空间" style="text;html=1;fontSize=20;fontFamily=Comic Sans MS;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="270" y="770" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ild8ydI0AzDVEAHNxU5q-26" value="springboot" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fillColor=#e2b09f;fontFamily=Comic Sans MS;fontSize=20;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="270" y="820" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ild8ydI0AzDVEAHNxU5q-27" value="freemarker" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fillColor=#e2b09f;fontFamily=Comic Sans MS;fontSize=20;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="270" y="860" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ild8ydI0AzDVEAHNxU5q-28" value="mysql" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fillColor=#e2b09f;fontFamily=Comic Sans MS;fontSize=20;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="270" y="920" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
