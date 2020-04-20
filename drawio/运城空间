@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-04-20T08:53:29.020Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="uRDJgZ1wYgODU9sFtsjX" version="12.9.5" type="github" pages="2">
+<mxfile host="www.draw.io" modified="2020-04-20T08:54:28.543Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="tj4UCf5LBR5j9vz4pmzR" version="12.9.5" type="github" pages="2">
   <diagram id="A8ur06DNwPvKbhj8TN78" name="空间1.0">
     <mxGraphModel dx="1250" dy="811" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -121,13 +121,22 @@
           <mxGeometry x="90" y="80" width="580" height="240" as="geometry" />
         </mxCell>
         <mxCell id="C3rjxbgcoQqwmczhm3KU-1" value="MongoDB" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fillColor=#e2b09f;fontFamily=Comic Sans MS;fontSize=15;fontColor=#FFFFFF;" parent="3OQyigDei2CriDUITYZG-1" vertex="1">
-          <mxGeometry x="250" y="350" width="80" height="30" as="geometry" />
+          <mxGeometry x="310" y="350" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OuUCZWRx08yZhojysrm7-1" value="&lt;h3 id=&quot;consul、eureka、nacos对比&quot; style=&quot;line-height: 1.5 ; margin: 10px 0px&quot;&gt;&lt;span style=&quot;font-size: 15px ; font-weight: 400&quot;&gt;nacos&lt;/span&gt;&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fillColor=#e2b09f;fontFamily=Comic Sans MS;fontSize=15;fontColor=#FFFFFF;" vertex="1" parent="3OQyigDei2CriDUITYZG-1">
           <mxGeometry x="120" y="110" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OuUCZWRx08yZhojysrm7-2" value="&lt;h3 id=&quot;consul、eureka、nacos对比&quot; style=&quot;line-height: 1.5 ; margin: 10px 0px&quot;&gt;&lt;span style=&quot;font-size: 15px ; font-weight: 400&quot;&gt;elasticsearch&lt;/span&gt;&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fillColor=#e2b09f;fontFamily=Comic Sans MS;fontSize=15;fontColor=#FFFFFF;" vertex="1" parent="3OQyigDei2CriDUITYZG-1">
           <mxGeometry x="250" y="110" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OuUCZWRx08yZhojysrm7-3" value="&lt;h3 id=&quot;consul、eureka、nacos对比&quot; style=&quot;line-height: 1.5 ; margin: 10px 0px&quot;&gt;&lt;span style=&quot;font-size: 15px ; font-weight: 400&quot;&gt;zuul&lt;/span&gt;&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fillColor=#e2b09f;fontFamily=Comic Sans MS;fontSize=15;fontColor=#FFFFFF;" vertex="1" parent="3OQyigDei2CriDUITYZG-1">
+          <mxGeometry x="130" y="185" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OuUCZWRx08yZhojysrm7-4" value="&lt;h3 id=&quot;consul、eureka、nacos对比&quot; style=&quot;line-height: 1.5 ; margin: 10px 0px&quot;&gt;&lt;span style=&quot;font-size: 15px ; font-weight: 400&quot;&gt;xxl-job&lt;/span&gt;&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fillColor=#e2b09f;fontFamily=Comic Sans MS;fontSize=15;fontColor=#FFFFFF;" vertex="1" parent="3OQyigDei2CriDUITYZG-1">
+          <mxGeometry x="310" y="185" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OuUCZWRx08yZhojysrm7-5" value="&lt;h3 id=&quot;consul、eureka、nacos对比&quot; style=&quot;line-height: 1.5 ; margin: 10px 0px&quot;&gt;&lt;span style=&quot;font-size: 15px ; font-weight: 400&quot;&gt;kafka&lt;/span&gt;&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fillColor=#e2b09f;fontFamily=Comic Sans MS;fontSize=15;fontColor=#FFFFFF;" vertex="1" parent="3OQyigDei2CriDUITYZG-1">
+          <mxGeometry x="430" y="185" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
