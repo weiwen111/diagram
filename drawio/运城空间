@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-04-22T06:42:59.038Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="qWLNm7w0CF0kN4Rb-ZLt" version="12.9.5" type="github" pages="2">
+<mxfile host="www.draw.io" modified="2020-04-22T06:50:58.830Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="w5c2g1h8qtVZ1g6ZwOcp" version="12.9.5" type="github" pages="2">
   <diagram id="A8ur06DNwPvKbhj8TN78" name="空间1.0">
     <mxGraphModel dx="1250" dy="811" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -123,26 +123,26 @@
         <mxCell id="C3rjxbgcoQqwmczhm3KU-1" value="MongoDB" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fillColor=#e2b09f;fontFamily=Comic Sans MS;fontSize=15;fontColor=#FFFFFF;" parent="3OQyigDei2CriDUITYZG-1" vertex="1">
           <mxGeometry x="230" y="490" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OuUCZWRx08yZhojysrm7-1" value="&lt;h3 id=&quot;consul、eureka、nacos对比&quot; style=&quot;line-height: 1.5 ; margin: 10px 0px&quot;&gt;&lt;span style=&quot;font-size: 15px ; font-weight: 400&quot;&gt;nacos&lt;/span&gt;&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fillColor=#e2b09f;fontFamily=Comic Sans MS;fontSize=15;fontColor=#FFFFFF;" vertex="1" parent="3OQyigDei2CriDUITYZG-1">
-          <mxGeometry x="640" y="230" width="80" height="30" as="geometry" />
+        <mxCell id="OuUCZWRx08yZhojysrm7-1" value="&lt;h3 id=&quot;consul、eureka、nacos对比&quot; style=&quot;line-height: 1.5 ; margin: 10px 0px&quot;&gt;&lt;span style=&quot;font-size: 15px ; font-weight: 400&quot;&gt;配置中心/nacos&lt;/span&gt;&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fillColor=#e2b09f;fontFamily=Comic Sans MS;fontSize=15;fontColor=#FFFFFF;" vertex="1" parent="3OQyigDei2CriDUITYZG-1">
+          <mxGeometry x="640" y="230" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OuUCZWRx08yZhojysrm7-3" value="&lt;h3 id=&quot;consul、eureka、nacos对比&quot; style=&quot;line-height: 1.5 ; margin: 10px 0px&quot;&gt;&lt;span style=&quot;font-size: 15px ; font-weight: 400&quot;&gt;zuul&lt;/span&gt;&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fillColor=#e2b09f;fontFamily=Comic Sans MS;fontSize=15;fontColor=#FFFFFF;" vertex="1" parent="3OQyigDei2CriDUITYZG-1">
           <mxGeometry x="220" y="150" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OuUCZWRx08yZhojysrm7-4" value="&lt;h3 id=&quot;consul、eureka、nacos对比&quot; style=&quot;line-height: 1.5 ; margin: 10px 0px&quot;&gt;&lt;span style=&quot;font-size: 15px ; font-weight: 400&quot;&gt;xxl-job&lt;/span&gt;&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fillColor=#e2b09f;fontFamily=Comic Sans MS;fontSize=15;fontColor=#FFFFFF;" vertex="1" parent="3OQyigDei2CriDUITYZG-1">
-          <mxGeometry x="640" y="470" width="80" height="30" as="geometry" />
+        <mxCell id="OuUCZWRx08yZhojysrm7-4" value="&lt;h3 id=&quot;consul、eureka、nacos对比&quot; style=&quot;line-height: 1.5 ; margin: 10px 0px&quot;&gt;&lt;span style=&quot;font-size: 15px ; font-weight: 400&quot;&gt;分布式任务调度/xxl-job&lt;/span&gt;&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fillColor=#e2b09f;fontFamily=Comic Sans MS;fontSize=15;fontColor=#FFFFFF;" vertex="1" parent="3OQyigDei2CriDUITYZG-1">
+          <mxGeometry x="640" y="430" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OuUCZWRx08yZhojysrm7-5" value="&lt;h3 id=&quot;consul、eureka、nacos对比&quot; style=&quot;line-height: 1.5 ; margin: 10px 0px&quot;&gt;&lt;span style=&quot;font-size: 15px ; font-weight: 400&quot;&gt;kafka&lt;/span&gt;&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fillColor=#e2b09f;fontFamily=Comic Sans MS;fontSize=15;fontColor=#FFFFFF;" vertex="1" parent="3OQyigDei2CriDUITYZG-1">
-          <mxGeometry x="640" y="380" width="80" height="30" as="geometry" />
+        <mxCell id="OuUCZWRx08yZhojysrm7-5" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 10.5pt ; font-family: &amp;#34;calibri&amp;#34; , sans-serif&quot;&gt;消息队列/rocketMQ/&lt;span style=&quot;font-size: 15px ; font-family: &amp;#34;comic sans ms&amp;#34; ; text-align: center&quot;&gt;kafka&lt;/span&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fillColor=#e2b09f;fontFamily=Comic Sans MS;fontSize=15;fontColor=#FFFFFF;" vertex="1" parent="3OQyigDei2CriDUITYZG-1">
+          <mxGeometry x="640" y="380" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OuUCZWRx08yZhojysrm7-6" value="&lt;h3 id=&quot;consul、eureka、nacos对比&quot; style=&quot;line-height: 1.5 ; margin: 10px 0px&quot;&gt;&lt;span style=&quot;font-size: 15px ; font-weight: 400&quot;&gt;pinpoint&lt;/span&gt;&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fillColor=#e2b09f;fontFamily=Comic Sans MS;fontSize=15;fontColor=#FFFFFF;" vertex="1" parent="3OQyigDei2CriDUITYZG-1">
-          <mxGeometry x="640" y="330" width="80" height="30" as="geometry" />
+        <mxCell id="OuUCZWRx08yZhojysrm7-6" value="&lt;h3 id=&quot;consul、eureka、nacos对比&quot; style=&quot;line-height: 1.5 ; margin: 10px 0px&quot;&gt;&lt;span style=&quot;font-size: 15px ; font-weight: 400&quot;&gt;APM监控/pinpoint&lt;/span&gt;&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fillColor=#e2b09f;fontFamily=Comic Sans MS;fontSize=15;fontColor=#FFFFFF;" vertex="1" parent="3OQyigDei2CriDUITYZG-1">
+          <mxGeometry x="640" y="330" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OuUCZWRx08yZhojysrm7-7" value="&lt;h3 id=&quot;consul、eureka、nacos对比&quot; style=&quot;line-height: 1.5 ; margin: 10px 0px&quot;&gt;&lt;span style=&quot;font-size: 15px ; font-weight: 400&quot;&gt;springboot&lt;/span&gt;&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fillColor=#e2b09f;fontFamily=Comic Sans MS;fontSize=15;fontColor=#FFFFFF;" vertex="1" parent="3OQyigDei2CriDUITYZG-1">
           <mxGeometry x="50" y="310" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OuUCZWRx08yZhojysrm7-8" value="&lt;h3 id=&quot;consul、eureka、nacos对比&quot; style=&quot;line-height: 1.5 ; margin: 10px 0px&quot;&gt;&lt;span style=&quot;font-size: 15px ; font-weight: 400&quot;&gt;apollo&lt;/span&gt;&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fillColor=#e2b09f;fontFamily=Comic Sans MS;fontSize=15;fontColor=#FFFFFF;" vertex="1" parent="3OQyigDei2CriDUITYZG-1">
-          <mxGeometry x="640" y="270" width="80" height="30" as="geometry" />
+          <mxGeometry x="870" y="240" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OuUCZWRx08yZhojysrm7-9" value="&lt;h3 id=&quot;consul、eureka、nacos对比&quot; style=&quot;line-height: 1.5 ; margin: 10px 0px&quot;&gt;&lt;span style=&quot;font-size: 15px ; font-weight: 400&quot;&gt;nginx&lt;/span&gt;&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fillColor=#e2b09f;fontFamily=Comic Sans MS;fontSize=15;fontColor=#FFFFFF;" vertex="1" parent="3OQyigDei2CriDUITYZG-1">
           <mxGeometry x="80" y="150" width="80" height="30" as="geometry" />
@@ -169,7 +169,10 @@
           <mxGeometry x="50" y="410" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OuUCZWRx08yZhojysrm7-23" value="&lt;h3 id=&quot;consul、eureka、nacos对比&quot; style=&quot;line-height: 1.5 ; margin: 10px 0px&quot;&gt;&lt;span style=&quot;font-size: 15px ; font-weight: 400&quot;&gt;elastic stack&lt;/span&gt;&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fillColor=#e2b09f;fontFamily=Comic Sans MS;fontSize=15;fontColor=#FFFFFF;" vertex="1" parent="3OQyigDei2CriDUITYZG-1">
-          <mxGeometry x="625" y="140" width="110" height="30" as="geometry" />
+          <mxGeometry x="640" y="190" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OuUCZWRx08yZhojysrm7-24" value="&lt;h3 id=&quot;consul、eureka、nacos对比&quot; style=&quot;line-height: 1.5 ; margin: 10px 0px&quot;&gt;&lt;span style=&quot;font-size: 15px ; font-weight: 400&quot;&gt;服务发现/nacos&lt;/span&gt;&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fillColor=#e2b09f;fontFamily=Comic Sans MS;fontSize=15;fontColor=#FFFFFF;" vertex="1" parent="3OQyigDei2CriDUITYZG-1">
+          <mxGeometry x="640" y="270" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
