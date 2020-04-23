@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-04-23T01:27:56.495Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="G64qePW7ZstvjCd0RIhL" version="12.9.5" type="github" pages="2">
+<mxfile host="www.draw.io" modified="2020-04-23T01:28:33.138Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="Ds65jOMaAwz4642j2i7o" version="12.9.5" type="github" pages="3">
   <diagram id="A8ur06DNwPvKbhj8TN78" name="空间1.0">
     <mxGraphModel dx="1250" dy="811" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -107,7 +107,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="wWFuIjY7jxYv9rbBTK7t" name="java后台技术栈">
-    <mxGraphModel dx="1250" dy="811" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" page="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="3OQyigDei2CriDUITYZG-0" />
         <mxCell id="3OQyigDei2CriDUITYZG-1" parent="3OQyigDei2CriDUITYZG-0" />
@@ -180,6 +180,14 @@
         <mxCell id="OuUCZWRx08yZhojysrm7-27" value="&lt;h3 id=&quot;consul、eureka、nacos对比&quot; style=&quot;line-height: 1.5 ; margin: 10px 0px&quot;&gt;&lt;span style=&quot;font-size: 15px ; font-weight: 400&quot;&gt;对象存储/阿里OSS&lt;/span&gt;&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fillColor=#e2b09f;fontFamily=Comic Sans MS;fontSize=15;fontColor=#FFFFFF;" vertex="1" parent="3OQyigDei2CriDUITYZG-1">
           <mxGeometry x="640" y="480" width="170" height="30" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="w-qxcLu-g8CHJG5d2Tyy" name="空间2.0">
+    <mxGraphModel dx="1250" dy="811" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0k6e-U97IxsqEGTYgYUI-0" />
+        <mxCell id="0k6e-U97IxsqEGTYgYUI-1" parent="0k6e-U97IxsqEGTYgYUI-0" />
       </root>
     </mxGraphModel>
   </diagram>
