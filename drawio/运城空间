@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-04-24T08:13:11.033Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="zj7Uq27QE81_18ovWmes" version="12.9.5" type="github" pages="7">
+<mxfile host="www.draw.io" modified="2020-04-24T08:29:06.624Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="jT_HR2t_QYtWnZjv3SQR" version="12.9.5" type="github" pages="7">
   <diagram id="wWFuIjY7jxYv9rbBTK7t" name="java后台技术栈">
     <mxGraphModel dx="1250" dy="811" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -621,9 +621,6 @@
         <mxCell id="hWhaSAffMvwHb5TZsDiW-4" value="权限控制" style="rounded=0;whiteSpace=wrap;html=1;comic=0;fillColor=#e2b09f;fontFamily=Comic Sans MS;fontSize=15;fontColor=#FFFFFF;" vertex="1" parent="162ugsU-ku15kPZmPEzu-1">
           <mxGeometry x="126.80000000000001" y="450" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="hWhaSAffMvwHb5TZsDiW-5" value="权限控制" style="rounded=0;whiteSpace=wrap;html=1;comic=0;fillColor=#e2b09f;fontFamily=Comic Sans MS;fontSize=15;fontColor=#FFFFFF;" vertex="1" parent="162ugsU-ku15kPZmPEzu-1">
-          <mxGeometry x="-86.19999999999999" y="485" width="80" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="hWhaSAffMvwHb5TZsDiW-6" value="空间服务" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=15;fontColor=#FFFFFF;" vertex="1" parent="162ugsU-ku15kPZmPEzu-1">
           <mxGeometry x="-166.2" y="455" width="80" height="20" as="geometry" />
         </mxCell>
@@ -807,6 +804,45 @@
         </mxCell>
         <mxCell id="dSAXxtkGZAPQmhVxu_6Z-51" value="Render" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=15;fontColor=none;" vertex="1" parent="dSAXxtkGZAPQmhVxu_6Z-1">
           <mxGeometry x="460" y="870" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GXPNHnNqmIwDD54MWPD7-0" value="" style="rounded=0;whiteSpace=wrap;html=1;comic=0;fillColor=#E2B09F;fontSize=15;fontColor=#FFFFFF;" vertex="1" parent="dSAXxtkGZAPQmhVxu_6Z-1">
+          <mxGeometry x="700" y="585" width="340" height="515" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZWzkDuWZEmJQKK5wTcj-0" value="消息队列" style="rounded=0;whiteSpace=wrap;html=1;comic=0;fillColor=#e2b09f;fontFamily=Comic Sans MS;fontSize=15;fontColor=#FFFFFF;" vertex="1" parent="dSAXxtkGZAPQmhVxu_6Z-1">
+          <mxGeometry x="923" y="666" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZWzkDuWZEmJQKK5wTcj-1" value="任务调度" style="rounded=0;whiteSpace=wrap;html=1;comic=0;fillColor=#e2b09f;fontFamily=Comic Sans MS;fontSize=15;fontColor=#FFFFFF;" vertex="1" parent="dSAXxtkGZAPQmhVxu_6Z-1">
+          <mxGeometry x="923" y="803" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZWzkDuWZEmJQKK5wTcj-2" value="缓存" style="rounded=0;whiteSpace=wrap;html=1;comic=0;fillColor=#e2b09f;fontFamily=Comic Sans MS;fontSize=15;fontColor=#FFFFFF;" vertex="1" parent="dSAXxtkGZAPQmhVxu_6Z-1">
+          <mxGeometry x="923" y="840" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZWzkDuWZEmJQKK5wTcj-3" value="搜索服务" style="rounded=0;whiteSpace=wrap;html=1;comic=0;fillColor=#e2b09f;fontFamily=Comic Sans MS;fontSize=15;fontColor=#FFFFFF;" vertex="1" parent="dSAXxtkGZAPQmhVxu_6Z-1">
+          <mxGeometry x="923" y="900" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZWzkDuWZEmJQKK5wTcj-4" value="日志" style="rounded=0;whiteSpace=wrap;html=1;comic=0;fillColor=#e2b09f;fontFamily=Comic Sans MS;fontSize=15;fontColor=#FFFFFF;" vertex="1" parent="dSAXxtkGZAPQmhVxu_6Z-1">
+          <mxGeometry x="923" y="937" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZWzkDuWZEmJQKK5wTcj-5" value="应用管理" style="rounded=0;whiteSpace=wrap;html=1;comic=0;fillColor=#e2b09f;fontFamily=Comic Sans MS;fontSize=15;fontColor=#FFFFFF;" vertex="1" parent="dSAXxtkGZAPQmhVxu_6Z-1">
+          <mxGeometry x="390" y="660" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZWzkDuWZEmJQKK5wTcj-6" value="权限控制" style="rounded=0;whiteSpace=wrap;html=1;comic=0;fillColor=#e2b09f;fontFamily=Comic Sans MS;fontSize=15;fontColor=#FFFFFF;" vertex="1" parent="dSAXxtkGZAPQmhVxu_6Z-1">
+          <mxGeometry x="603" y="661" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZWzkDuWZEmJQKK5wTcj-7" value="权限控制" style="rounded=0;whiteSpace=wrap;html=1;comic=0;fillColor=#e2b09f;fontFamily=Comic Sans MS;fontSize=15;fontColor=#FFFFFF;" vertex="1" parent="dSAXxtkGZAPQmhVxu_6Z-1">
+          <mxGeometry x="390" y="696" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZWzkDuWZEmJQKK5wTcj-8" value="任务管理" style="rounded=0;whiteSpace=wrap;html=1;comic=0;fillColor=#e2b09f;fontFamily=Comic Sans MS;fontSize=15;fontColor=#FFFFFF;" vertex="1" parent="dSAXxtkGZAPQmhVxu_6Z-1">
+          <mxGeometry x="603" y="696" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZWzkDuWZEmJQKK5wTcj-9" value="模板管理" style="rounded=0;whiteSpace=wrap;html=1;comic=0;fillColor=#e2b09f;fontFamily=Comic Sans MS;fontSize=15;fontColor=#FFFFFF;" vertex="1" parent="dSAXxtkGZAPQmhVxu_6Z-1">
+          <mxGeometry x="497" y="696" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZWzkDuWZEmJQKK5wTcj-10" value="分享服务" style="rounded=0;whiteSpace=wrap;html=1;comic=0;fillColor=#e2b09f;fontFamily=Comic Sans MS;fontSize=15;fontColor=#FFFFFF;" vertex="1" parent="dSAXxtkGZAPQmhVxu_6Z-1">
+          <mxGeometry x="497" y="660" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZWzkDuWZEmJQKK5wTcj-11" value="统一配置" style="rounded=0;whiteSpace=wrap;html=1;comic=0;fillColor=#e2b09f;fontFamily=Comic Sans MS;fontSize=15;fontColor=#FFFFFF;" vertex="1" parent="dSAXxtkGZAPQmhVxu_6Z-1">
+          <mxGeometry x="923" y="630" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
