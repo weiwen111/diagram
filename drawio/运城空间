@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-04-24T06:26:55.400Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="_iuGvTjTlmyLe9FjpquA" version="12.9.5" type="github" pages="5">
+<mxfile host="www.draw.io" modified="2020-04-24T06:47:11.689Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="bv1FnypXA00HbpS7uFJQ" version="12.9.5" type="github" pages="6">
   <diagram id="wWFuIjY7jxYv9rbBTK7t" name="java后台技术栈">
     <mxGraphModel dx="1250" dy="811" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -546,6 +546,41 @@
         </mxCell>
         <mxCell id="1av09Bf0QSkYV7-YQmXe-37" value="本地缓存" style="rhombus;whiteSpace=wrap;html=1;fillColor=#E2B09F;fontSize=15;fontColor=#FFFFFF;" vertex="1" parent="rXAnnIle12Z-m_5Lmcy6-1">
           <mxGeometry x="-120" y="780" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="HkywmZLGfqqOq9KD-89G" name="第 6 页">
+    <mxGraphModel dx="1250" dy="811" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="162ugsU-ku15kPZmPEzu-0" />
+        <mxCell id="162ugsU-ku15kPZmPEzu-1" parent="162ugsU-ku15kPZmPEzu-0" />
+        <mxCell id="162ugsU-ku15kPZmPEzu-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E2B09F;fontSize=15;fontColor=#FFFFFF;" vertex="1" parent="162ugsU-ku15kPZmPEzu-1">
+          <mxGeometry x="30" y="520" width="670" height="510" as="geometry" />
+        </mxCell>
+        <mxCell id="wDuuFFmvDO1jltO_5-o7-0" value="elasticsearch" style="rounded=0;whiteSpace=wrap;html=1;comic=0;fillColor=#e2b09f;fontFamily=Comic Sans MS;fontSize=15;fontColor=#FFFFFF;" vertex="1" parent="162ugsU-ku15kPZmPEzu-1">
+          <mxGeometry x="284" y="960" width="106" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wDuuFFmvDO1jltO_5-o7-1" value="mysql" style="rounded=0;whiteSpace=wrap;html=1;comic=0;fillColor=#e2b09f;fontFamily=Comic Sans MS;fontSize=15;fontColor=#FFFFFF;" vertex="1" parent="162ugsU-ku15kPZmPEzu-1">
+          <mxGeometry x="190" y="960" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wDuuFFmvDO1jltO_5-o7-3" value="" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fillColor=#E2B09F;fontSize=15;fontColor=#FFFFFF;" vertex="1" parent="162ugsU-ku15kPZmPEzu-1">
+          <mxGeometry x="130" y="850" width="400" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wDuuFFmvDO1jltO_5-o7-4" value="集成" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=15;fontColor=#FFFFFF;" vertex="1" parent="162ugsU-ku15kPZmPEzu-1">
+          <mxGeometry x="130" y="870" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wDuuFFmvDO1jltO_5-o7-6" value="jdbc" style="rounded=0;whiteSpace=wrap;html=1;comic=0;fillColor=#e2b09f;fontFamily=Comic Sans MS;fontSize=15;fontColor=#FFFFFF;" vertex="1" parent="162ugsU-ku15kPZmPEzu-1">
+          <mxGeometry x="200" y="865" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wDuuFFmvDO1jltO_5-o7-7" value="接口组件" style="rounded=0;whiteSpace=wrap;html=1;comic=0;fillColor=#e2b09f;fontFamily=Comic Sans MS;fontSize=15;fontColor=#FFFFFF;" vertex="1" parent="162ugsU-ku15kPZmPEzu-1">
+          <mxGeometry x="410" y="865" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wDuuFFmvDO1jltO_5-o7-8" value="文件系统" style="rounded=0;whiteSpace=wrap;html=1;comic=0;fillColor=#e2b09f;fontFamily=Comic Sans MS;fontSize=15;fontColor=#FFFFFF;" vertex="1" parent="162ugsU-ku15kPZmPEzu-1">
+          <mxGeometry x="410" y="960" width="106" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wDuuFFmvDO1jltO_5-o7-9" value="接口组件" style="rounded=0;whiteSpace=wrap;html=1;comic=0;fillColor=#e2b09f;fontFamily=Comic Sans MS;fontSize=15;fontColor=#FFFFFF;" vertex="1" parent="162ugsU-ku15kPZmPEzu-1">
+          <mxGeometry x="297" y="870" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
