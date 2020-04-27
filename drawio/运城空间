@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-04-27T01:06:20.714Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="VI7bOJX1xaduBSMvZ4EE" version="12.9.5" type="github" pages="8">
+<mxfile host="www.draw.io" modified="2020-04-27T01:08:12.628Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="vWYpMEpi7dXuJY-sYGzW" version="12.9.5" type="github" pages="8">
   <diagram id="wWFuIjY7jxYv9rbBTK7t" name="java后台技术栈">
     <mxGraphModel dx="1250" dy="811" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -398,7 +398,7 @@
         <mxCell id="bBjrZ4jnpWJ8viRYX37N-57" value="负载" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=15;fontColor=none;" vertex="1" parent="0k6e-U97IxsqEGTYgYUI-1">
           <mxGeometry x="92.5" y="75" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="bBjrZ4jnpWJ8viRYX37N-58" value="集成工具" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=15;fontColor=none;" vertex="1" parent="0k6e-U97IxsqEGTYgYUI-1">
+        <mxCell id="bBjrZ4jnpWJ8viRYX37N-58" value="基础工具" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=15;fontColor=none;" vertex="1" parent="0k6e-U97IxsqEGTYgYUI-1">
           <mxGeometry x="555" y="155" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
