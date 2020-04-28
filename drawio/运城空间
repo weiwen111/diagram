@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-04-28T03:14:17.840Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="1WeZKC-kEulqrqFyhcEy" version="12.9.5" type="github" pages="8">
+<mxfile host="www.draw.io" modified="2020-04-28T03:14:27.316Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="ulmoJyxmXpbMtfHbQKP0" version="12.9.5" type="github" pages="8">
   <diagram id="wWFuIjY7jxYv9rbBTK7t" name="java后台技术栈">
     <mxGraphModel dx="1250" dy="811" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -739,7 +739,7 @@
         <mxCell id="BUe1y4bbk3IBAIXJn4E1-0" value="空间中心" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E2B09F;fontSize=15;fontColor=#FFFFFF;" vertex="1" parent="rXAnnIle12Z-m_5Lmcy6-1">
           <mxGeometry x="330" y="1220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BUe1y4bbk3IBAIXJn4E1-1" value="服务发现" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E2B09F;fontSize=15;fontColor=#FFFFFF;" vertex="1" parent="rXAnnIle12Z-m_5Lmcy6-1">
+        <mxCell id="BUe1y4bbk3IBAIXJn4E1-1" value="服务发现nacos" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E2B09F;fontSize=15;fontColor=#FFFFFF;" vertex="1" parent="rXAnnIle12Z-m_5Lmcy6-1">
           <mxGeometry x="80" y="1320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BUe1y4bbk3IBAIXJn4E1-6" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeColor=#000000;strokeWidth=1;fontSize=15;fontColor=none;opacity=70;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="rXAnnIle12Z-m_5Lmcy6-1" source="BUe1y4bbk3IBAIXJn4E1-2" target="BUe1y4bbk3IBAIXJn4E1-1">
