@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<meta content="text/html; charset=UTF-8" http-equiv="content-type" />
+	<title>toutiao</title>
+</head>
+<body>
+<table cellpadding="1" cellspacing="1" border="1">
+<thead>
+<tr><td rowspan="1" colspan="3">wtt_up_file</td></tr>
+</thead>
+<tbody>
+<tr><td>store</td><td>/Users/weiwen/Documents/e/ytb/sina/iig/<datalist><option>yyyyy</option><option>path</option><option>/Users/weiwen/Documents/e/ytb/sina/iig/</option></datalist></td><td>path</td>
+</tr>
+<tr><td>storeEval</td><td>17<datalist><option>10</option><option>11</option><option>14</option><option>17</option></datalist></td><td>from</td>
+</tr>
+<tr><td>storeEval</td><td>3<datalist><option>3</option></datalist></td><td>size</td>
+</tr>
+<tr><td>storeEval</td><td>${from}<datalist><option>${from}</option></datalist></td><td>rowIndex</td>
+</tr>
+<tr><td>while</td><td>${rowIndex}&lt;(${from}+${size})<datalist><option>${rowIndex}&lt;(${from}+${size})</option></datalist></td><td></td>
+</tr>
+<tr><td>open</td><td>https://mp.toutiao.com/profile_v3/weitoutiao/publish<datalist><option>http://news.baidu.com/</option><option>http://www.baidu.com/</option><option>https://mp.toutiao.com/profile_v3/weitoutiao/publish</option></datalist></td><td></td>
+</tr>
+<tr><td>click</td><td>xpath=(.//*[normalize-space(text()) and normalize-space(.)='问答'])[1]/following::div[12]<datalist><option>xpath=(.//*[normalize-space(text()) and normalize-space(.)='问答'])[1]/following::div[12]</option><option>xpath=(.//*[normalize-space(text()) and normalize-space(.)='小视频'])[1]/following::div[13]</option><option>xpath=(.//*[normalize-space(text()) and normalize-space(.)='发表'])[1]/preceding::div[2]</option><option>xpath=(.//*[normalize-space(text()) and normalize-space(.)='我的'])[1]/preceding::div[6]</option><option>//div[@id='weitoutiao']/div/div[2]/div[2]/div/div</option><option>//div/div/div[2]/div[2]/div/div</option><option>css=div.ml6.upload-handler</option></datalist></td><td></td>
+</tr>
+<tr><td>storeCsv</td><td>urls11.csv,${rowIndex},id<datalist><option>urls11.csv,0,id</option><option>urls11.csv,${rowIndex},id</option></datalist></td><td>id</td>
+</tr>
+<tr><td>storeCsv</td><td>urls11.csv,${rowIndex},title<datalist><option>urls11.csv,0,title</option><option>urls11.csv,${rowIndex},title</option></datalist></td><td>title</td>
+</tr>
+<tr><td>type</td><td>//input[@type='file']<datalist><option>id=kw</option><option>name=wd</option><option>//input[@id='kw']</option><option>//form[@id='form']/span/input</option><option>//span/input</option><option>css=#kw</option><option>xpath=/html/body/div[4]/div/div/div[2]/div/div/div/div[2]/div[1]/div/div[2]/div[1]/span/input</option><option>//input[@type='file']</option><option>//input[@typ='file']</option></datalist></td><td>${path}${id}--${title}.gif</td>
+</tr>
+<tr><td>echo</td><td>${rowIndex}<datalist><option>${rowIndex}</option></datalist></td><td></td>
+</tr>
+<tr><td>storeEval</td><td>${rowIndex}+1<datalist><option>${rowIndex}+1</option></datalist></td><td>rowIndex</td>
+</tr>
+<tr><td>waitForElementPresent</td><td>//*/ul[1]/li[1]/div[2]<datalist><option>//li[@id='15784793005061']/div[2]</option><option>//li/div[2]</option><option>css=div.success</option><option>/html/body/div[4]/div/div/div[2]/div/div/div/div[2]/div[1]/div/ul/li[1]/div[2]</option><option>//*/ul[1]/li[1]/div[2]</option></datalist></td><td>等待文件上传</td>
+</tr>
+<tr><td>pause</td><td>1000<datalist><option>1000</option></datalist></td><td>等待一秒</td>
+</tr>
+<tr><td>click</td><td>xpath=(.//*[normalize-space(text()) and normalize-space(.)='取消'])[1]/following::button[1]<datalist><option>xpath=(.//*[normalize-space(text()) and normalize-space(.)='取消'])[1]/following::button[1]</option><option>xpath=(.//*[normalize-space(text()) and normalize-space(.)='保存到素材库'])[1]/following::button[2]</option><option>xpath=(//button[@type='button'])[5]</option><option>//button[2]</option><option>css=div.confirm &gt; button.tui2-btn.tui2-btn-size-default.tui2-btn-primary</option></datalist></td><td>点击上传确认</td>
+</tr>
+<tr><td>type</td><td>id=publish-text-area<datalist><option>id=publish-text-area</option><option>//textarea[@id='publish-text-area']</option><option>//div[@id='weitoutiao']/div/div[2]/div/textarea</option><option>//div/textarea</option><option>css=#publish-text-area</option></datalist></td><td>${title}</td>
+</tr>
+<tr><td>click</td><td>xpath=(.//*[normalize-space(text()) and normalize-space(.)='问答'])[1]/following::button[1]<datalist><option>xpath=(.//*[normalize-space(text()) and normalize-space(.)='问答'])[1]/following::button[1]</option><option>xpath=(.//*[normalize-space(text()) and normalize-space(.)='小视频'])[1]/following::button[1]</option><option>xpath=(.//*[normalize-space(text()) and normalize-space(.)='我的'])[1]/preceding::button[1]</option><option>xpath=(//button[@type='button'])[2]</option><option>//div[@id='weitoutiao']/div/div[2]/div[4]/div/button</option><option>//div[4]/div/button</option><option>css=button.tui2-btn.tui2-btn-size-default.tui2-btn-primary.publish-content</option></datalist></td><td>点击提交</td>
+</tr>
+<tr><td>endWhile</td><td><datalist><option></option></datalist></td><td></td>
+</tr>
+</tbody></table>
+</body>
+</html>

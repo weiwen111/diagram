@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<meta content="text/html; charset=UTF-8" http-equiv="content-type" />
+	<title>wz</title>
+</head>
+<body>
+<table cellpadding="1" cellspacing="1" border="1">
+<thead>
+<tr><td rowspan="1" colspan="3">wz_up_file</td></tr>
+</thead>
+<tbody>
+<tr><td>store</td><td>/Users/weiwen/Documents/e/ytb/sina/iig/<datalist><option>/Users/weiwen/Documents/e/ytb/sina/iig/</option><option>yyyyy</option><option>path</option></datalist></td><td>path</td>
+</tr>
+<tr><td>storeEval</td><td>60<datalist><option>17</option><option>10</option><option>11</option><option>14</option><option>0</option><option>20</option><option>30</option><option>40</option><option>50</option><option>60</option></datalist></td><td>from</td>
+</tr>
+<tr><td>storeEval</td><td>10<datalist><option>3</option><option>4</option><option>10</option></datalist></td><td>size</td>
+</tr>
+<tr><td>storeEval</td><td>${from}<datalist><option>${from}</option></datalist></td><td>rowIndex</td>
+</tr>
+<tr><td>storeEval</td><td>1<datalist><option>1</option></datalist></td><td>divTag</td>
+</tr>
+<tr><td>store</td><td><datalist><option></option></datalist></td><td>bTitle</td>
+</tr>
+<tr><td>open</td><td>https://mp.toutiao.com/profile_v3/graphic/publish<datalist><option>https://mp.toutiao.com/profile_v3/graphic/publish</option></datalist></td><td></td>
+</tr>
+<tr><td>while</td><td>${rowIndex}&lt;(${from}+${size})<datalist><option>${rowIndex}&lt;(${from}+${size})</option></datalist></td><td></td>
+</tr>
+<tr><td>storeCsv</td><td>urls11.csv,${rowIndex},id<datalist><option>urls11.csv,${rowIndex},id</option><option>urls11.csv,0,id</option></datalist></td><td>id</td>
+</tr>
+<tr><td>storeCsv</td><td>urls11.csv,${rowIndex},title<datalist><option>urls11.csv,${rowIndex},title</option><option>urls11.csv,0,title</option></datalist></td><td>title</td>
+</tr>
+<tr><td>store</td><td>${title}<datalist><option>${title}</option></datalist></td><td>bTitle</td>
+</tr>
+<tr><td>click</td><td>xpath=(.//*[normalize-space(text()) and normalize-space(.)='备注'])[1]/following::*[name()='svg'][1]<datalist><option>xpath=(.//*[normalize-space(text()) and normalize-space(.)='备注'])[1]/following::*[name()='svg'][1]</option><option>xpath=(.//*[normalize-space(text()) and normalize-space(.)='代码块'])[1]/following::*[name()='svg'][2]</option><option>xpath=(.//*[normalize-space(text()) and normalize-space(.)='内容疑似违规，建议修改'])[1]/preceding::*[name()='svg'][7]</option><option>css=div.syl-toolbar-tool.image &gt; button.MuiButtonBase-root.MuiIconButton-root &gt; span.MuiIconButton-label &gt; svg</option></datalist></td><td></td>
+</tr>
+<tr><td>type</td><td>//input[@type='file']<datalist><option>//input[@type='file']</option><option>id=kw</option><option>name=wd</option><option>//input[@id='kw']</option><option>//form[@id='form']/span/input</option><option>//span/input</option><option>css=#kw</option><option>xpath=/html/body/div[4]/div/div/div[2]/div/div/div/div[2]/div[1]/div/div[2]/div[1]/span/input</option><option>//input[@typ='file']</option></datalist></td><td>${path}${id}--${title}.gif</td>
+</tr>
+<tr><td>waitForElementPresent</td><td>//*/ul[1]/li[1]/div[@class="success"]<datalist><option>//li/div[2]</option><option>css=div.success</option><option>//*/ul[1]/li[1]/div[2]</option><option>//*/ul[1]/li[1]/div[@class="success"]</option></datalist></td><td>等待文件上传</td>
+</tr>
+<tr><td>pause</td><td>1000<datalist><option>1000</option></datalist></td><td>等待一秒</td>
+</tr>
+<tr><td>click</td><td>xpath=(.//*[normalize-space(text()) and normalize-space(.)='取消'])[1]/following::span[1]<datalist><option>xpath=(.//*[normalize-space(text()) and normalize-space(.)='取消'])[1]/following::span[1]</option><option>xpath=(.//*[normalize-space(text()) and normalize-space(.)='保存到素材库'])[1]/following::span[2]</option><option>xpath=//*/text()[normalize-space(.)='确认']/parent::*</option><option>//div[2]/div/div/button[2]/span</option><option>css=button.tui2-btn.tui2-btn-size-default.tui2-btn-primary &gt; span.tui2-btn-content</option></datalist></td><td></td>
+</tr>
+<tr><td>setText</td><td>xpath=(//input[@value=''])<datalist><option>xpath=(//input[@value=''])[4]</option><option>//div[@id='graphic']/div/div[2]/div/div/div[5]/div/div/div[4]/mask/div/div[2]/input</option><option>//div[4]/mask/div/div[2]/input</option><option>xpath=(//input[@value=''])[${divTag}]</option><option>xpath=(//input[@value=''])</option></datalist></td><td>${title}</td>
+</tr>
+<tr><td>storeEval</td><td>${rowIndex}+1<datalist><option>${rowIndex}+1</option></datalist></td><td>rowIndex</td>
+</tr>
+<tr><td>storeEval</td><td>${divTag}+1<datalist><option>${rowIndex}+1</option><option>${divTag}+1</option></datalist></td><td>divTag</td>
+</tr>
+<tr><td>endWhile</td><td><datalist><option></option></datalist></td><td></td>
+</tr>
+<tr><td>setText</td><td>xpath=(//textarea[@autocomplete="off"])<datalist><option>//div[@id='graphic']/div/div[2]/div/div/div[3]/div/div/div/textarea</option><option>//div/textarea</option><option>css=div.editor-title.autofit-textarea-wrapper &gt; textarea</option><option>xpath=(//div[@id='graphic']/div/div[2]/div/div/div[3]/div/div/div/textarea)</option><option>xpath=(//textarea[@autocomplete="off"])</option></datalist></td><td>${bTitle}</td>
+</tr>
+<tr><td>echo</td><td>$(title)<datalist><option>$(title)</option></datalist></td><td></td>
+</tr>
+<tr><td>click</td><td>xpath=(.//*[normalize-space(text()) and normalize-space(.)='预览'])[2]/following::span[1]<datalist><option>xpath=(.//*[normalize-space(text()) and normalize-space(.)='预览'])[2]/following::span[1]</option><option>xpath=(.//*[normalize-space(text()) and normalize-space(.)='已保存'])[1]/following::span[2]</option><option>xpath=(.//*[normalize-space(text()) and normalize-space(.)='定时发布'])[1]/preceding::span[1]</option><option>xpath=(.//*[normalize-space(text()) and normalize-space(.)='发布'])[1]/preceding::span[2]</option><option>xpath=//*/text()[normalize-space(.)='存草稿']/parent::*</option><option>//div[@id='graphic']/div/div[2]/div/div[3]/div/button[2]/span</option><option>//button[2]/span</option></datalist></td><td></td>
+</tr>
+<tr><td></td><td><datalist><option></option></datalist></td><td></td>
+</tr>
+<tr><td></td><td><datalist><option></option></datalist></td><td></td>
+</tr>
+</tbody></table>
+</body>
+</html>
